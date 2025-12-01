@@ -1,0 +1,803 @@
+{
+  "format": "alignment",
+  "version": "0.4",
+  "type": "audio-reference",
+  "roles": [
+    "timecode",
+    "text-reference"
+  ],
+  "groups": [
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_001.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_002.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_003.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_004.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_005.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_006.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_007.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_008.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_009.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_010.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_011.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_012.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_013.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_014.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_015.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_016.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_017.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_018.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_019.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_020.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_021.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_022.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_023.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_024.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_025.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_026.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_027.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_028.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_029.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_030.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_031.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_032.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_033.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_034.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_035.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_036.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_037.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_038.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_039.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_040.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_041.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_042.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_043.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_044.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_045.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_046.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_047.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_048.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_049.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_050.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_051.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_052.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_053.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_054.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_055.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_056.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_057.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_058.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_059.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_060.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_061.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_062.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_063.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_064.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_065.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    },
+    {
+      "documents": [
+        {
+          "scheme": "vtt-timecode",
+          "docid": "https://cdn.aquifer.bible/aquifer-content/scripture/ARB/NAV/audio/mp3/ARB_NAV_23_066.mp3"
+        },
+        {
+          "scheme": "u23003"
+        }
+      ],
+      "records": []
+    }
+  ]
+}
