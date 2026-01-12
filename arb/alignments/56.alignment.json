@@ -1,0 +1,6859 @@
+{
+  "documents": [
+    {
+      "docid": "SBLGNT",
+      "scheme": "BCVWP|token-string"
+    },
+    {
+      "docid": "ONAV",
+      "scheme": "BCVW|token-string"
+    }
+  ],
+  "meta": {
+    "creator": "Mission Mutual"
+  },
+  "roles": [
+    "source",
+    "target"
+  ],
+  "type": "translation",
+  "records": [
+    {
+      "source": [
+        "56001001001|"
+      ],
+      "target": [
+        "56001001001|مِنْ",
+        "56001001002|بُولُسَ"
+      ],
+      "meta": {
+        "id": "3def3511-39ea-43be-a664-fe293489749a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001001002|"
+      ],
+      "target": [
+        "56001001004|عَبْدِ"
+      ],
+      "meta": {
+        "id": "c0c7029b-4e0d-4657-b173-b1cba6d45f07",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001001003|"
+      ],
+      "target": [
+        "56001001005|اللهِ"
+      ],
+      "meta": {
+        "id": "0b9baf7f-be77-4d3c-a6ca-fb8158ecc500",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001001004|",
+        "56001001005|"
+      ],
+      "target": [
+        "56001001006|وَرَسُولِ"
+      ],
+      "meta": {
+        "id": "b409a270-a0ba-46f4-8d5a-c53f30ea1f60",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001001006|"
+      ],
+      "target": [
+        "56001001007|يَسُوعَ"
+      ],
+      "meta": {
+        "id": "16608d04-b718-43de-86f5-89f7577f3d1f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001001007|"
+      ],
+      "target": [
+        "56001001008|الْمَسِيحِ"
+      ],
+      "meta": {
+        "id": "dd3a04de-a47a-4317-b812-429318d251dd",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001001008|"
+      ],
+      "target": [
+        "56001001009|فِي",
+        "56001001010|سَبِيلِ"
+      ],
+      "meta": {
+        "id": "d318de3b-a38c-4979-9a59-1b36e01ecae9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001001009|"
+      ],
+      "target": [
+        "56001001011|إِيمَانِ"
+      ],
+      "meta": {
+        "id": "8bb31a98-b764-4688-babd-341b13006404",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001001010|"
+      ],
+      "target": [
+        "56001001012|مَنِ",
+        "56001001013|اخْتَارَهُمُ"
+      ],
+      "meta": {
+        "id": "0e8b3947-e30d-4009-8896-520f958b1149",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001001011|"
+      ],
+      "target": [
+        "56001001014|اللهُ"
+      ],
+      "meta": {
+        "id": "fa6da624-b408-43f2-bed5-eb0ef81513c8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001001012|",
+        "56001001013|"
+      ],
+      "target": [
+        "56001001016|وَمَعْرِفَتِهِمْ"
+      ],
+      "meta": {
+        "id": "b62fad40-1fe7-4689-a0b0-20da6d58e6d6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001001014|"
+      ],
+      "target": [
+        "56001001017|لِلْحَقِّ"
+      ],
+      "meta": {
+        "id": "7e8f0d49-a8de-4bf9-a3a3-947fedafbcf6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001001016|"
+      ],
+      "target": [
+        "56001001018|الْمُوَافِقِ"
+      ],
+      "meta": {
+        "id": "eefb118d-ea8f-4664-b781-9c15022a5497",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001001017|"
+      ],
+      "target": [
+        "56001001019|لِلتَّقْوَى"
+      ],
+      "meta": {
+        "id": "92192191-87f4-4711-b925-9b574dbc04e2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001002001|"
+      ],
+      "target": [
+        "56001002001|فِي"
+      ],
+      "meta": {
+        "id": "e1570049-f032-4044-8502-154d0e402f68",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001002002|"
+      ],
+      "target": [
+        "56001002002|رَجَاءِ"
+      ],
+      "meta": {
+        "id": "01827c69-f03d-4d82-994e-a9a88509c52b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001002003|",
+        "56001002004|"
+      ],
+      "target": [
+        "56001002003|الْحَيَاةِ",
+        "56001002004|الأَبَدِيَّةِ"
+      ],
+      "meta": {
+        "id": "e9015253-e9ad-4683-ae04-c10c92188187",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001002005|"
+      ],
+      "target": [
+        "56001002006|الَّتِي"
+      ],
+      "meta": {
+        "id": "3773c8e0-4b95-461f-8a0f-3a24d4e48a78",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001002006|"
+      ],
+      "target": [
+        "56001002007|وَعَدَ",
+        "56001002008|بِها"
+      ],
+      "meta": {
+        "id": "119540fd-e786-4fd8-9dbb-22c4d034e171",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001002007|",
+        "56001002009|"
+      ],
+      "target": [
+        "56001002009|اللهُ"
+      ],
+      "meta": {
+        "id": "55f0b19c-e8f2-4d7b-b0a3-ce00ba6e7ea7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001002008|"
+      ],
+      "target": [
+        "56001002010|الْمُنَزَّهُ",
+        "56001002011|عَنِ",
+        "56001002012|الْكَذِبِ"
+      ],
+      "meta": {
+        "id": "97cbe31e-702b-4de4-be87-3f9dabdf1cde",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001002010|"
+      ],
+      "target": [
+        "56001002014|مِنْ",
+        "56001002015|قَبْلِ"
+      ],
+      "meta": {
+        "id": "257e000c-98d7-44b5-be37-b57a68f88f90",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001002011|"
+      ],
+      "target": [
+        "56001002016|أَزْمِنَةِ"
+      ],
+      "meta": {
+        "id": "59244e3d-948c-4465-88a5-92e60eacf451",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001002012|"
+      ],
+      "target": [
+        "56001002017|الأَزَلِ"
+      ],
+      "meta": {
+        "id": "92b4f326-c495-496f-af3f-9e9ad0753661",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001003001|"
+      ],
+      "target": [
+        "56001003002|بَيَّنَ"
+      ],
+      "meta": {
+        "id": "cfe8bc3c-0bfb-4586-9dc8-214cf15e783c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001003002|"
+      ],
+      "target": [
+        "56001003001|ثُمَّ"
+      ],
+      "meta": {
+        "id": "642cf36f-58fd-4444-9064-714100208ed8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001003003|",
+        "56001003004|"
+      ],
+      "target": [
+        "56001003004|فِي",
+        "56001003005|أَوَانِهَا",
+        "56001003006|الْمُعَيَّنِ"
+      ],
+      "meta": {
+        "id": "f6efb58a-f456-4dd4-a9c9-964ecf562b8c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001003006|",
+        "56001003007|"
+      ],
+      "target": [
+        "56001003003|كَلِمَتَهُ"
+      ],
+      "meta": {
+        "id": "ee86573d-184a-4cf1-94b4-5e010fa25a7b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001003008|",
+        "56001003009|"
+      ],
+      "target": [
+        "56001003008|بِالْبِشَارَةِ"
+      ],
+      "meta": {
+        "id": "a8870602-663e-4f26-914a-f319abe3066c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001003010|"
+      ],
+      "target": [
+        "56001003009|الَّتِي"
+      ],
+      "meta": {
+        "id": "67ae7d43-ac98-4de9-8608-7bfccf341c30",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001003011|"
+      ],
+      "target": [
+        "56001003010|وُضِعَتْ",
+        "56001003011|أَمَانَةً",
+        "56001003012|بَيْنَ",
+        "56001003013|يَدَيَّ"
+      ],
+      "meta": {
+        "id": "69347076-e943-421f-a703-9bbed2985dc5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001003013|"
+      ],
+      "target": [
+        "56001003014|بِمُوجِبِ"
+      ],
+      "meta": {
+        "id": "ab3e9c66-ec0f-40f7-95f2-34a03e835121",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001003014|"
+      ],
+      "target": [
+        "56001003015|أَمْرِ"
+      ],
+      "meta": {
+        "id": "0299df58-7e4c-4521-b073-caf5322d5ef2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001003016|",
+        "56001003017|"
+      ],
+      "target": [
+        "56001003016|مُخَلِّصِنَا"
+      ],
+      "meta": {
+        "id": "dd9d00ef-817b-42a9-8d61-3891fffd724d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001003018|"
+      ],
+      "target": [
+        "56001003017|اللهِ"
+      ],
+      "meta": {
+        "id": "1ceb1ed3-5533-4f12-8cb0-84671a1f496f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004001|"
+      ],
+      "target": [
+        "56001004001|إِلَى",
+        "56001004002|تِيطُسَ"
+      ],
+      "meta": {
+        "id": "cb873ea2-dc35-464c-b4ea-d60ec767d2fa",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004002|"
+      ],
+      "target": [
+        "56001004005|الْحَقِيقِيِّ"
+      ],
+      "meta": {
+        "id": "4499be47-42e3-47bf-9259-06d9c44c0051",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004003|"
+      ],
+      "target": [
+        "56001004004|وَلَدِي"
+      ],
+      "meta": {
+        "id": "958b4b7f-df20-424f-a3ff-a28938d5a6ac",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004004|"
+      ],
+      "target": [
+        "56001004006|بِالنِّسْبَةِ",
+        "56001004007|إِلَى"
+      ],
+      "meta": {
+        "id": "fd03dca9-3f8b-4a67-a2a0-e7603fe24d03",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004005|"
+      ],
+      "target": [
+        "56001004009|الْمُشْتَرَكِ",
+        "56001004010|بَيْنَنَا"
+      ],
+      "meta": {
+        "id": "fcd50373-bb59-4423-bddb-4d8e6f6a1040",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004006|"
+      ],
+      "target": [
+        "56001004008|الإِيمَانِ"
+      ],
+      "meta": {
+        "id": "708052b9-4470-4791-9134-40cf34441c09",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004007|"
+      ],
+      "target": [
+        "56001004014|النِّعْمَةُ"
+      ],
+      "meta": {
+        "id": "1b2273b9-c49c-4144-af07-14101c731a8e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004008|",
+        "56001004009|"
+      ],
+      "target": [
+        "56001004015|وَالسَّلامُ"
+      ],
+      "meta": {
+        "id": "f8f5f4db-371a-450d-90bd-2410a0254db9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004010|"
+      ],
+      "target": [
+        "56001004016|مِنَ"
+      ],
+      "meta": {
+        "id": "d42a631a-8da2-4153-a2f2-836161c83be8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004011|"
+      ],
+      "target": [
+        "56001004017|اللهِ"
+      ],
+      "meta": {
+        "id": "2753c514-a9f6-4d88-aca4-8481c6d91ad7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004012|"
+      ],
+      "target": [
+        "56001004018|الآبِ"
+      ],
+      "meta": {
+        "id": "9852b130-1ed7-46e4-92ac-a2e01606f6a5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004013|",
+        "56001004014|"
+      ],
+      "target": [
+        "56001004020|وَالْمَسِيحِ"
+      ],
+      "meta": {
+        "id": "5e56b308-aef4-463d-9240-42151f22a9b8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004015|"
+      ],
+      "target": [
+        "56001004021|يَسُوعَ"
+      ],
+      "meta": {
+        "id": "3ead1710-ba10-456c-8474-30b534635f30",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001004017|",
+        "56001004018|"
+      ],
+      "target": [
+        "56001004022|مُخَلِّصِنَا"
+      ],
+      "meta": {
+        "id": "efbeab77-2693-4b76-8046-c395f20fe4f0",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001005003|",
+        "56001005004|"
+      ],
+      "target": [
+        "56001005001|تَرَكْتُكَ"
+      ],
+      "meta": {
+        "id": "e12d1797-5573-460e-96e5-01228a52254a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001005005|"
+      ],
+      "target": [
+        "56001005002|فِي"
+      ],
+      "meta": {
+        "id": "c8fb44aa-92ab-488f-bf57-19ca2c5b2c5b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001005006|"
+      ],
+      "target": [
+        "56001005003|جَزِيرَةِ",
+        "56001005004|كِرِيتَ"
+      ],
+      "meta": {
+        "id": "efd0b099-729b-40cc-a183-382aa2cfeb38",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001005007|"
+      ],
+      "target": [
+        "56001005005|لِكَيْ"
+      ],
+      "meta": {
+        "id": "ad0d06a9-68d6-4da8-a38c-2ff6542d6937",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001005010|"
+      ],
+      "target": [
+        "56001005006|تُكَمِّلَ",
+        "56001005007|تَرْتِيبَ"
+      ],
+      "meta": {
+        "id": "99172851-5074-4491-bc55-99384f04e5da",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001005011|",
+        "56001005012|"
+      ],
+      "target": [
+        "56001005011|وَتُقِيمَ"
+      ],
+      "meta": {
+        "id": "f6a1bca3-b8e3-496a-94bc-b3dd915b1756",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001005013|"
+      ],
+      "target": [
+        "56001005013|فِي",
+        "56001005014|كُلِّ"
+      ],
+      "meta": {
+        "id": "77d91010-a846-4841-a591-955a4e93cce3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001005014|"
+      ],
+      "target": [
+        "56001005015|مَدِينَةٍ"
+      ],
+      "meta": {
+        "id": "e58b8873-9e43-48ed-9add-c78457b64340",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001005015|"
+      ],
+      "target": [
+        "56001005012|شُيُوخاً"
+      ],
+      "meta": {
+        "id": "20fd5772-e6da-4710-a265-711f420e0961",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001005016|"
+      ],
+      "target": [
+        "56001005017|مِثْلَمَا"
+      ],
+      "meta": {
+        "id": "75891b84-3758-41da-9961-8d98c076028e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001005018|",
+        "56001005019|"
+      ],
+      "target": [
+        "56001005018|أَمَرْتُكَ"
+      ],
+      "meta": {
+        "id": "33bdda38-d55b-4070-907a-6696032ae825",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006001|"
+      ],
+      "target": [
+        "56001006001|عَلَى",
+        "56001006002|أَنْ"
+      ],
+      "meta": {
+        "id": "04a2cf99-6d0c-48c3-a34a-fcc4d3363753",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006002|"
+      ],
+      "target": [
+        "56001006004|الْوَاحِدُ",
+        "56001006005|مِنْهُمْ"
+      ],
+      "meta": {
+        "id": "ea909f50-5b73-4f0f-a096-ccd0b32816fc",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006003|"
+      ],
+      "target": [
+        "56001006003|يَكُونَ"
+      ],
+      "meta": {
+        "id": "edf7b41c-da6f-40bc-b0a0-f50fb979ca03",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006004|"
+      ],
+      "target": [
+        "56001006006|بَرِيئاً",
+        "56001006007|مِنْ",
+        "56001006008|كُلِّ",
+        "56001006009|تُهْمَةٍ"
+      ],
+      "meta": {
+        "id": "fbd5b65c-0157-4b97-ad22-bbe92fcd8934",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006005|"
+      ],
+      "target": [
+        "56001006013|وَاحِدَةٍ"
+      ],
+      "meta": {
+        "id": "3c103018-bd57-45f0-a6ce-57fefa44d07d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006006|"
+      ],
+      "target": [
+        "56001006012|لامْرَأَةٍ"
+      ],
+      "meta": {
+        "id": "42193e81-ebc5-4a66-a7e2-5a759f706d73",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006007|"
+      ],
+      "target": [
+        "56001006011|زَوْجاً"
+      ],
+      "meta": {
+        "id": "004874c3-579a-49bb-904b-778cd34723b9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006008|"
+      ],
+      "target": [
+        "56001006016|لأَوْلادٍ"
+      ],
+      "meta": {
+        "id": "e68314f0-68e7-4bb2-be2e-c8e97daeac05",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006009|"
+      ],
+      "target": [
+        "56001006015|أَباً"
+      ],
+      "meta": {
+        "id": "3dc5a4c6-5b7a-4db1-9de8-832ada6964fe",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006010|"
+      ],
+      "target": [
+        "56001006017|مُؤْمِنِينَ"
+      ],
+      "meta": {
+        "id": "3ed6c0c0-6fb0-4e2a-87dd-f016ec84bb03",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006011|"
+      ],
+      "target": [
+        "56001006018|لَا"
+      ],
+      "meta": {
+        "id": "17e81049-04d7-4a6d-bd83-1ade743c8d52",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006012|",
+        "56001006014|"
+      ],
+      "target": [
+        "56001006020|بِالْخَلاعَةِ"
+      ],
+      "meta": {
+        "id": "355a4504-3d8f-4b08-88e9-e6aac1e8cecc",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006013|"
+      ],
+      "target": [
+        "56001006019|يُتَّهَمُونَ"
+      ],
+      "meta": {
+        "id": "358709a0-9692-4e5d-8fad-57c29b4834d6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001006015|",
+        "56001006016|"
+      ],
+      "target": [
+        "56001006021|وَالتَّمَرُّدِ"
+      ],
+      "meta": {
+        "id": "38438b24-5e99-4e2e-af7c-ec92a5455834",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007001|"
+      ],
+      "target": [
+        "56001007004|يَجِبُ"
+      ],
+      "meta": {
+        "id": "d4959e2f-c0f1-4484-a063-bce89a0dd6d6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007002|"
+      ],
+      "target": [
+        "56001007001|وَذَلِكَ",
+        "56001007002|لأَنَّ"
+      ],
+      "meta": {
+        "id": "b0b8f160-6786-409b-b17d-4e86798f1f5e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007003|",
+        "56001007004|"
+      ],
+      "target": [
+        "56001007003|الرَّاعِيَ"
+      ],
+      "meta": {
+        "id": "dae6ef2a-92a1-46d0-b533-8fc7d7fa149f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007005|"
+      ],
+      "target": [
+        "56001007007|بَرِيئاً",
+        "56001007008|مِنْ",
+        "56001007009|كُلِّ",
+        "56001007010|تُهْمَةٍ"
+      ],
+      "meta": {
+        "id": "6a1b4713-c059-4be4-af89-0fb490daf223",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007006|"
+      ],
+      "target": [
+        "56001007005|أَنْ",
+        "56001007006|يَكُونَ"
+      ],
+      "meta": {
+        "id": "00415afd-54d6-4ff9-bffa-3ae8e01fdc44",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007007|"
+      ],
+      "target": [
+        "56001007011|بِاعْتِبَارِهِ"
+      ],
+      "meta": {
+        "id": "c3048c3c-4d22-4127-b167-2239c4c74117",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007008|"
+      ],
+      "target": [
+        "56001007013|لِلهِ"
+      ],
+      "meta": {
+        "id": "e335e38a-7c12-46b0-abfe-dbe9a3961d4e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007009|"
+      ],
+      "target": [
+        "56001007012|وَكِيلاً"
+      ],
+      "meta": {
+        "id": "58a34e91-33b8-4aea-bf33-bc527b5933a9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007010|"
+      ],
+      "target": [
+        "56001007015|لَا"
+      ],
+      "meta": {
+        "id": "098f3d20-72dd-4c91-a4ad-bc85673ccd7b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007011|"
+      ],
+      "target": [
+        "56001007016|مُعْجَباً",
+        "56001007017|بِنَفْسِهِ"
+      ],
+      "meta": {
+        "id": "c1d1b832-4f78-4b2e-9ff6-9855bf2df50f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007012|"
+      ],
+      "target": [
+        "56001007018|وَلا"
+      ],
+      "meta": {
+        "id": "28aff4e7-4b5b-4475-a2a7-7ff4f06cdba3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007013|"
+      ],
+      "target": [
+        "56001007019|حَادَّ",
+        "56001007020|الطَّبْعِ"
+      ],
+      "meta": {
+        "id": "52728df9-dda6-4a91-a2e3-68a40ff195a8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007014|"
+      ],
+      "target": [
+        "56001007022|وَلا"
+      ],
+      "meta": {
+        "id": "1506e9c1-669e-452b-899a-ce73241ee6d8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007015|"
+      ],
+      "target": [
+        "56001007023|مُدْمِنَ",
+        "56001007024|الْخَمْرِ"
+      ],
+      "meta": {
+        "id": "6d30d47d-b9a7-4660-80eb-4ee09237c883",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007016|"
+      ],
+      "target": [
+        "56001007026|وَلا"
+      ],
+      "meta": {
+        "id": "00690182-fc35-4533-9994-2fcd87c89cf9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007017|"
+      ],
+      "target": [
+        "56001007027|عَنِيفاً"
+      ],
+      "meta": {
+        "id": "02da5f72-e24a-49a0-9571-534d11cd9cb8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007018|"
+      ],
+      "target": [
+        "56001007029|وَلا"
+      ],
+      "meta": {
+        "id": "b889a98a-e54c-4eb5-8b6f-9cfe027b605e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001007019|"
+      ],
+      "target": [
+        "56001007030|سَاعِياً",
+        "56001007031|إِلَى",
+        "56001007032|الْمَكْسَبِ",
+        "56001007033|الْخَسِيسِ"
+      ],
+      "meta": {
+        "id": "8973ebb5-7b5f-402e-bc03-369d6101fcfa",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001008001|"
+      ],
+      "target": [
+        "56001008001|بَلْ"
+      ],
+      "meta": {
+        "id": "20652e4c-38ed-4721-8ca4-e913809da25c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001008002|"
+      ],
+      "target": [
+        "56001008002|مِضْيَافاً"
+      ],
+      "meta": {
+        "id": "5364ef59-6483-4106-9319-c2bc35c2534f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001008003|"
+      ],
+      "target": [
+        "56001008004|مُحِبّاً",
+        "56001008005|لِلصَّلاحِ"
+      ],
+      "meta": {
+        "id": "2cf54678-230e-4939-8474-f60f03144871",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001008004|"
+      ],
+      "target": [
+        "56001008007|رَزِيناً"
+      ],
+      "meta": {
+        "id": "c41cd0a7-dcdd-456a-918e-a99d717543de",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001008005|"
+      ],
+      "target": [
+        "56001008009|بَارّاً"
+      ],
+      "meta": {
+        "id": "e3545ae8-ad4d-4a61-901e-85f094c85b02",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001008006|"
+      ],
+      "target": [
+        "56001008011|تَقِيًّا"
+      ],
+      "meta": {
+        "id": "fe6184c7-829a-478f-8b07-905856f9f239",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001008007|"
+      ],
+      "target": [
+        "56001008013|ضَابِطاً",
+        "56001008014|نَفْسَهُ"
+      ],
+      "meta": {
+        "id": "aff63018-fc1f-472c-9643-29f1ca465a4b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001009001|"
+      ],
+      "target": [
+        "56001009001|مُلْتَصِقاً"
+      ],
+      "meta": {
+        "id": "bbd13be8-0a2f-4f22-8b65-cee3d7f687d8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001009002|",
+        "56001009007|"
+      ],
+      "target": [
+        "56001009002|بِالْكَلِمَةِ"
+      ],
+      "meta": {
+        "id": "bc74be93-4a91-4ed7-8092-2a1c631729ee",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001009003|"
+      ],
+      "target": [
+        "56001009004|الْمُوَافِقَةِ"
+      ],
+      "meta": {
+        "id": "8983c3ca-0187-4aae-a9f5-263809edd57a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001009004|",
+        "56001009005|"
+      ],
+      "target": [
+        "56001009005|لِلتَّعْلِيمِ"
+      ],
+      "meta": {
+        "id": "e8804cdd-e294-4153-811e-4135f8ac6a42",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001009006|"
+      ],
+      "target": [
+        "56001009003|الصَّادِقَةِ"
+      ],
+      "meta": {
+        "id": "62e24e6e-9b3a-4de7-9df6-8b7db642f406",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001009008|",
+        "56001009010|"
+      ],
+      "target": [
+        "56001009007|لِيَكُونَ"
+      ],
+      "meta": {
+        "id": "3a5f79e7-5829-498d-bed0-1d567bd72d3f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001009009|"
+      ],
+      "target": [
+        "56001009008|قَادِراً"
+      ],
+      "meta": {
+        "id": "bb706321-9538-4c26-b3b3-d2a71ce16a48",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001009012|"
+      ],
+      "target": [
+        "56001009009|عَلَى",
+        "56001009010|تَشْجِيعِ",
+        "56001009011|الْمُؤْمِنِيِنَ"
+      ],
+      "meta": {
+        "id": "89f2644b-88c5-4979-bec1-aaa59d8cee25",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001009013|",
+        "56001009014|",
+        "56001009015|"
+      ],
+      "target": [
+        "56001009012|بِالتَّعْلِيمِ"
+      ],
+      "meta": {
+        "id": "1d8bac9e-3c15-47cf-97a6-0f8b88e845ef",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001009017|"
+      ],
+      "target": [
+        "56001009013|الصَّحِيحِ"
+      ],
+      "meta": {
+        "id": "619f18f0-cf42-47dc-b17a-bdfddba35760",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001009018|",
+        "56001009021|"
+      ],
+      "target": [
+        "56001009014|وَعَلَى",
+        "56001009015|إِفْحَامِ"
+      ],
+      "meta": {
+        "id": "d402ed47-dea2-4244-94bb-3c02807d9002",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001009020|"
+      ],
+      "target": [
+        "56001009016|الْمُعَارِضِينَ"
+      ],
+      "meta": {
+        "id": "95301c05-36b7-415f-9ca1-6ad75500f583",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001010001|"
+      ],
+      "target": [
+        "56001010002|هُنَالِكَ"
+      ],
+      "meta": {
+        "id": "b28ac6dc-5b70-460a-8dca-54b963fc5361",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001010002|"
+      ],
+      "target": [
+        "56001010001|فَإِنَّ"
+      ],
+      "meta": {
+        "id": "cf1cc949-ce47-4018-ba42-c210a7129c7b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001010003|"
+      ],
+      "target": [
+        "56001010003|كَثِيرِينَ"
+      ],
+      "meta": {
+        "id": "f4f1a83a-29c7-434b-929b-92f4f5293b86",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001010005|"
+      ],
+      "target": [
+        "56001010007|الْمُتَمَرِّدِينَ"
+      ],
+      "meta": {
+        "id": "be684106-6894-497a-b5be-fb659976ff4d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001010006|"
+      ],
+      "target": [
+        "56001010004|مِنْ",
+        "56001010005|مُعَلِّمِي",
+        "56001010006|الْبَاطِلِ"
+      ],
+      "meta": {
+        "id": "8a4ad99e-c057-4fce-b4f1-668a6f72bf22",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001010007|",
+        "56001010008|"
+      ],
+      "target": [
+        "56001010008|وَخَادِعِي",
+        "56001010009|عُقُولِ",
+        "56001010010|النَّاسِ"
+      ],
+      "meta": {
+        "id": "268accd6-828a-45ec-aa61-6193922a7f2e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001010009|"
+      ],
+      "target": [
+        "56001010012|وَبِخَاصَّةٍ"
+      ],
+      "meta": {
+        "id": "14ddfe36-9bfb-4ad2-924a-63fad360bcae",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001010010|"
+      ],
+      "target": [
+        "56001010013|الَّذِينَ"
+      ],
+      "meta": {
+        "id": "9880ef8d-b871-4420-a9cb-4bdf8b02619f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001010011|"
+      ],
+      "target": [
+        "56001010014|مِنْ"
+      ],
+      "meta": {
+        "id": "8b1aafc0-c965-4598-b464-112ffb9c1b31",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001010012|",
+        "56001010013|"
+      ],
+      "target": [
+        "56001010015|أَهْلِ",
+        "56001010016|الْخِتَانِ"
+      ],
+      "meta": {
+        "id": "2d68e90b-6d48-4d03-b03b-a44e53de8caf",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011001|"
+      ],
+      "target": [
+        "56001011001|هَؤُلاءِ"
+      ],
+      "meta": {
+        "id": "c33d241b-6c80-4039-b6c9-e5e7fda95d2c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011002|"
+      ],
+      "target": [
+        "56001011002|يَجِبُ"
+      ],
+      "meta": {
+        "id": "df2ac094-407a-4ee7-a16f-a551ee91ee62",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011003|"
+      ],
+      "target": [
+        "56001011003|أَنْ",
+        "56001011004|تُسَدَّ",
+        "56001011005|أَفْوَاهُهُمْ"
+      ],
+      "meta": {
+        "id": "bac05d42-3628-4cdd-b0f2-48d9d8bab4ba",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011004|"
+      ],
+      "target": [
+        "56001011007|فَهُمْ"
+      ],
+      "meta": {
+        "id": "6d3c034f-02b0-44c8-a54c-61c98c9032c0",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011005|"
+      ],
+      "target": [
+        "56001011010|بِجُمْلَتِهَا"
+      ],
+      "meta": {
+        "id": "8607fe52-5880-49dd-ad97-d7419ddb0930",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011006|"
+      ],
+      "target": [
+        "56001011009|بُيُوتاً"
+      ],
+      "meta": {
+        "id": "dfdad6de-bc08-418d-816a-1c997f07685c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011007|"
+      ],
+      "target": [
+        "56001011008|يُخْرِبُونَ"
+      ],
+      "meta": {
+        "id": "6c91ac2d-d34a-424a-ab5b-20bd60660b1c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011008|"
+      ],
+      "target": [
+        "56001011012|إِذْ",
+        "56001011013|يُعَلِّمُونَ"
+      ],
+      "meta": {
+        "id": "aeb8129f-8580-4b34-94ce-43983dfd6fee",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011009|"
+      ],
+      "target": [
+        "56001011014|تَعَالِيمَ"
+      ],
+      "meta": {
+        "id": "8aba2ed9-301b-4285-b0e0-abff44f8101f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011010|"
+      ],
+      "target": [
+        "56001011016|أَلّا",
+        "56001011017|تُعَلَّمَ"
+      ],
+      "meta": {
+        "id": "9e0b8bf6-914c-49d3-97de-fe28792afbe4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011011|"
+      ],
+      "target": [
+        "56001011015|يَجِبُ"
+      ],
+      "meta": {
+        "id": "33207e9b-52a0-4fa3-9c8e-3e6dfaebe638",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011012|"
+      ],
+      "target": [
+        "56001011022|خَسِيسٍ"
+      ],
+      "meta": {
+        "id": "bd1c1169-e8ae-475c-af59-907d1335e808",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011013|"
+      ],
+      "target": [
+        "56001011021|مَكْسَبٍ"
+      ],
+      "meta": {
+        "id": "fd74d381-c7e5-4caf-b66d-aa1ffab746eb",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001011014|"
+      ],
+      "target": [
+        "56001011019|فِي",
+        "56001011020|سَبِيلِ"
+      ],
+      "meta": {
+        "id": "2ad246e4-86b3-49cf-a065-906bc31181f2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001012001|"
+      ],
+      "target": [
+        "56001012001|وَقَدْ",
+        "56001012002|قَالَ"
+      ],
+      "meta": {
+        "id": "deda9259-a7aa-4e13-90fa-2b269f194ec5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001012002|"
+      ],
+      "target": [
+        "56001012003|وَاحِدٌ"
+      ],
+      "meta": {
+        "id": "231d6e96-a547-4200-82c9-7d3a0e97bd9a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001012003|",
+        "56001012004|"
+      ],
+      "target": [
+        "56001012004|مِنْهُمْ"
+      ],
+      "meta": {
+        "id": "b76c39c0-a1f7-406d-8df0-8f38b76335cb",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001012005|"
+      ],
+      "target": [
+        "56001012009|خَاصٌّ"
+      ],
+      "meta": {
+        "id": "3bddc174-f6da-438e-97cc-23f155d24bc4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001012006|"
+      ],
+      "target": [
+        "56001012010|بِهِمْ"
+      ],
+      "meta": {
+        "id": "5fe246a6-2231-43ed-bdfc-76b103a0e173",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001012007|"
+      ],
+      "target": [
+        "56001012006|وَهُوَ",
+        "56001012008|نَبِيٌّ"
+      ],
+      "meta": {
+        "id": "96bb090e-50e2-4027-8c50-8bd6e3cebb60",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001012008|"
+      ],
+      "target": [
+        "56001012013|أَهْلُ",
+        "56001012014|كِرِيتَ"
+      ],
+      "meta": {
+        "id": "e39aef84-e0dc-4f5d-97a5-3403d0f4157e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001012009|"
+      ],
+      "target": [
+        "56001012015|دَائِماً"
+      ],
+      "meta": {
+        "id": "2f945053-5a51-44c7-a989-adf99ef27c6b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001012010|"
+      ],
+      "target": [
+        "56001012016|كَذَّابُونَ"
+      ],
+      "meta": {
+        "id": "aed12a4a-3628-465d-bc57-2adbe8b23ae1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001012011|"
+      ],
+      "target": [
+        "56001012019|شَرِسَةٌ"
+      ],
+      "meta": {
+        "id": "434c51b6-9108-4541-95e2-c9695bcf2af8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001012012|"
+      ],
+      "target": [
+        "56001012018|وُحُوشٌ"
+      ],
+      "meta": {
+        "id": "4294eff5-57e3-4be4-83bd-ebea1a239784",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001012013|"
+      ],
+      "target": [
+        "56001012021|نَهِمُونَ"
+      ],
+      "meta": {
+        "id": "263e5daa-df81-4570-9f7c-8be58427408d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001012014|"
+      ],
+      "target": [
+        "56001012022|كُسَالَى"
+      ],
+      "meta": {
+        "id": "46e667a5-92d3-46e9-9bff-22f2c6cfd40f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001013002|"
+      ],
+      "target": [
+        "56001013002|شَهَادَةُ"
+      ],
+      "meta": {
+        "id": "55097afe-e744-423d-a9af-05d1c15cd93c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001013003|"
+      ],
+      "target": [
+        "56001013001|وَهَذِهِ"
+      ],
+      "meta": {
+        "id": "7991acf6-8b26-423d-ac6a-9de26b967016",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001013005|"
+      ],
+      "target": [
+        "56001013003|صِدْقٍ"
+      ],
+      "meta": {
+        "id": "4982de23-64c9-4332-9b15-5ea371b3f652",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001013006|",
+        "56001013007|"
+      ],
+      "target": [
+        "56001013005|لِذلِكَ"
+      ],
+      "meta": {
+        "id": "d8283e9a-b6f7-43ed-9a71-fbee4a3aac8f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001013009|",
+        "56001013010|"
+      ],
+      "target": [
+        "56001013006|كُنْ",
+        "56001013008|فِي",
+        "56001013009|تَوْبِيخِهِمْ"
+      ],
+      "meta": {
+        "id": "2e8601ce-58ee-447a-9e53-95262fd59932",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001013011|"
+      ],
+      "target": [
+        "56001013007|مُتَشَدِّداً"
+      ],
+      "meta": {
+        "id": "ca3b88ba-1e27-4bc2-97a4-1b4b266af5d6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001013012|"
+      ],
+      "target": [
+        "56001013011|لِيَكُونُوا"
+      ],
+      "meta": {
+        "id": "96e1a909-aa11-4d4f-9031-9d2ee325dd9e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001013013|"
+      ],
+      "target": [
+        "56001013012|أَصِحَّاءَ"
+      ],
+      "meta": {
+        "id": "3b25a603-ec8d-45d5-8045-27b0f408b629",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001013014|"
+      ],
+      "target": [
+        "56001013013|فِي"
+      ],
+      "meta": {
+        "id": "5edad254-cdae-47dc-ba55-fa9f25c1f3a1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001013015|",
+        "56001013016|"
+      ],
+      "target": [
+        "56001013014|الإِيمَانِ"
+      ],
+      "meta": {
+        "id": "ec449fad-72b8-445f-92f2-59d8646c984a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001014001|"
+      ],
+      "target": [
+        "56001014001|لَا"
+      ],
+      "meta": {
+        "id": "685677e2-97fc-4261-a215-df98f2f9a821",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001014002|"
+      ],
+      "target": [
+        "56001014002|يُدِيرُونَ",
+        "56001014003|عُقُولَهُمْ"
+      ],
+      "meta": {
+        "id": "9a3c5805-75cf-4b3c-a7dd-d60775793e34",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001014003|"
+      ],
+      "target": [
+        "56001014006|يَهُودِيَّةٍ"
+      ],
+      "meta": {
+        "id": "ac4b423f-f415-470f-aabd-caf1a91ebf0b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001014004|"
+      ],
+      "target": [
+        "56001014004|إِلَى",
+        "56001014005|خُرَافَاتٍ"
+      ],
+      "meta": {
+        "id": "a4a81b72-46f8-4986-a2a2-febfb60c70fd",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001014005|",
+        "56001014006|"
+      ],
+      "target": [
+        "56001014007|وَوَصَايَا"
+      ],
+      "meta": {
+        "id": "8ad9be05-0b3d-4a3a-a334-848ea2b92977",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001014007|"
+      ],
+      "target": [
+        "56001014008|أُنَاسٍ"
+      ],
+      "meta": {
+        "id": "da1fa3aa-97b0-4788-a887-71aa38f557dd",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001014008|"
+      ],
+      "target": [
+        "56001014009|تَحَوَّلُوا",
+        "56001014010|عَنِ",
+        "56001014012|بَعِيداً"
+      ],
+      "meta": {
+        "id": "81b449e2-b6e5-486b-9e50-e1770cdc958c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001014009|",
+        "56001014010|"
+      ],
+      "target": [
+        "56001014011|الْحَقِّ"
+      ],
+      "meta": {
+        "id": "4b94272c-ab72-466b-9c54-aeca8d7225b0",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001015001|"
+      ],
+      "target": [
+        "56001015004|كُلُّ",
+        "56001015005|شَيْءٍ"
+      ],
+      "meta": {
+        "id": "3e1b51ae-24c1-46c1-bb4b-2e64dabce334",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001015002|"
+      ],
+      "target": [
+        "56001015006|طَاهِرٌ"
+      ],
+      "meta": {
+        "id": "91431054-a802-402f-9cdd-9133f3eab11a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001015003|",
+        "56001015004|"
+      ],
+      "target": [
+        "56001015001|عِنْدَ",
+        "56001015002|الطَّاهِرِينَ"
+      ],
+      "meta": {
+        "id": "77b88abf-4625-45b0-86a0-5d3a34ee7969",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001015006|"
+      ],
+      "target": [
+        "56001015008|أَمَّا"
+      ],
+      "meta": {
+        "id": "1cfeba9f-3d92-4e4c-8106-ba2e26e0ea69",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001015007|"
+      ],
+      "target": [
+        "56001015009|عِنْدَ",
+        "56001015010|النَّجِسِينَ"
+      ],
+      "meta": {
+        "id": "95a9f990-f4f1-4f7f-ac57-c06d7536da03",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001015008|",
+        "56001015009|"
+      ],
+      "target": [
+        "56001015011|وَغَيْرِ",
+        "56001015012|الْمُؤْمِنِينَ"
+      ],
+      "meta": {
+        "id": "9f034851-72bc-4f29-ad93-688335ea489d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001015010|"
+      ],
+      "target": [
+        "56001015014|فَمَا",
+        "56001015015|مِنْ",
+        "56001015016|شَيْءٍ"
+      ],
+      "meta": {
+        "id": "ff76d31a-db49-4553-94a1-c1d3ca39c65b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001015011|"
+      ],
+      "target": [
+        "56001015017|طَاهِرٍ"
+      ],
+      "meta": {
+        "id": "f4794ee8-9224-41ec-aeb3-dd406d54fff8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001015012|"
+      ],
+      "target": [
+        "56001015019|بَلْ"
+      ],
+      "meta": {
+        "id": "791749d2-6c2c-4c99-9965-defae80cffc9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001015013|"
+      ],
+      "target": [
+        "56001015024|قَدْ",
+        "56001015025|صَارَتْ",
+        "56001015026|نَجِسَةً"
+      ],
+      "meta": {
+        "id": "ce83a72c-8313-47af-b8c3-af62101ffb69",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001015014|",
+        "56001015017|"
+      ],
+      "target": [
+        "56001015020|إِنَّ",
+        "56001015021|عُقُولَهُمْ"
+      ],
+      "meta": {
+        "id": "40be230d-784e-42de-8ef0-62bf3bb777d7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001015015|"
+      ],
+      "target": [
+        "56001015023|أَيْضاً"
+      ],
+      "meta": {
+        "id": "db22cd94-ae0f-42b5-b837-f71a45243bbd",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001015018|",
+        "56001015019|",
+        "56001015020|"
+      ],
+      "target": [
+        "56001015022|وَضَمَائِرَهُمْ"
+      ],
+      "meta": {
+        "id": "f80c9dfe-15ac-4648-8fd4-c719b425357b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001016001|"
+      ],
+      "target": [
+        "56001016005|اللهَ"
+      ],
+      "meta": {
+        "id": "2e3673ce-3f6d-4a47-b4dc-9ab6261053ca",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001016002|"
+      ],
+      "target": [
+        "56001016002|مُعْتَرِفِينَ"
+      ],
+      "meta": {
+        "id": "0123131b-85f3-45f9-80cf-1479d63ce161",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001016003|"
+      ],
+      "target": [
+        "56001016003|بِأَنَّهُمْ",
+        "56001016004|يَعْرِفُونَ"
+      ],
+      "meta": {
+        "id": "551fd96d-0529-412d-b269-063dd566f93c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001016004|",
+        "56001016006|"
+      ],
+      "target": [
+        "56001016008|بِأَعْمَالِهِمْ"
+      ],
+      "meta": {
+        "id": "bb74daba-f3da-41c5-aba2-9eba8aab4b61",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001016005|"
+      ],
+      "target": [
+        "56001016007|وَلَكِنَّهُمْ"
+      ],
+      "meta": {
+        "id": "9a50bba7-c601-41df-872e-81ab6eed63c0",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001016007|"
+      ],
+      "target": [
+        "56001016009|يُنْكِرُونَهُ"
+      ],
+      "meta": {
+        "id": "0af1740a-d0e2-4011-b454-a3cdcad58060",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001016008|"
+      ],
+      "target": [
+        "56001016012|مَكْرُوهُونَ"
+      ],
+      "meta": {
+        "id": "fb76a2f3-25b1-4f21-aad5-e809c511facd",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001016009|"
+      ],
+      "target": [
+        "56001016011|لأَنَّهُمْ"
+      ],
+      "meta": {
+        "id": "01834bbb-82a2-4234-a705-036dba4d534b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001016010|",
+        "56001016011|"
+      ],
+      "target": [
+        "56001016013|وَغَيْرُ",
+        "56001016014|طَائِعِينَ"
+      ],
+      "meta": {
+        "id": "013a50de-65ac-453c-830a-5a4bd05882e4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001016013|",
+        "56001016014|"
+      ],
+      "target": [
+        "56001016021|لِكُلِّ"
+      ],
+      "meta": {
+        "id": "c499bfb8-f146-4793-9235-d8c9af7f9b25",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001016015|"
+      ],
+      "target": [
+        "56001016022|عَمَلٍ"
+      ],
+      "meta": {
+        "id": "3c9771b1-6c4c-46f0-8d7c-26244666a0c5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001016016|"
+      ],
+      "target": [
+        "56001016023|صَالِحٍ"
+      ],
+      "meta": {
+        "id": "67c89481-1f73-40d8-bc0e-3e11b190503e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56001016017|"
+      ],
+      "target": [
+        "56001016019|غَيْرُ",
+        "56001016020|أَهْلٍ"
+      ],
+      "meta": {
+        "id": "d695caea-842e-4692-bdb2-ef0fb9bfb50e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002001001|"
+      ],
+      "target": [
+        "56002001002|أَنْتَ"
+      ],
+      "meta": {
+        "id": "676b23b1-3de0-473d-800f-09eda44fa003",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002001002|"
+      ],
+      "target": [
+        "56002001001|أَمَّا"
+      ],
+      "meta": {
+        "id": "3250a719-73ac-40a6-8d3e-72aac7559e66",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002001003|"
+      ],
+      "target": [
+        "56002001004|فَعَلِّمْ"
+      ],
+      "meta": {
+        "id": "55cd25fc-edea-4cf0-9c18-78bfbdf927ee",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002001004|"
+      ],
+      "target": [
+        "56002001005|بِمَا"
+      ],
+      "meta": {
+        "id": "9cb4948a-3bf4-41e8-94d0-656d97904d6f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002001005|"
+      ],
+      "target": [
+        "56002001006|يُوَافِقُ"
+      ],
+      "meta": {
+        "id": "de0bb2a6-517d-41d2-b8e4-028868d6d285",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002001006|",
+        "56002001008|"
+      ],
+      "target": [
+        "56002001007|التَّعْلِيمَ"
+      ],
+      "meta": {
+        "id": "34b70945-4ad8-4150-a0f9-cefcc512708f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002001007|"
+      ],
+      "target": [
+        "56002001008|الصَّحِيحَ"
+      ],
+      "meta": {
+        "id": "c8d4c486-4ec5-4fad-9289-6959da869221",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002002001|"
+      ],
+      "target": [
+        "56002002003|الشُّيُوخُ"
+      ],
+      "meta": {
+        "id": "706d1f04-5f30-4489-88cb-556a15ebd995",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002002002|"
+      ],
+      "target": [
+        "56002002004|ذَوِي",
+        "56002002005|رَزَانَةٍ"
+      ],
+      "meta": {
+        "id": "c23117e6-e43f-4233-9611-bedeb9f38c82",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002002003|"
+      ],
+      "target": [
+        "56002002001|أَنْ",
+        "56002002002|يَكُونَ"
+      ],
+      "meta": {
+        "id": "d2d6a2ce-6cee-4248-898b-77668242ab1c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002002004|"
+      ],
+      "target": [
+        "56002002006|وَوَقَارٍ"
+      ],
+      "meta": {
+        "id": "c79252ff-4c68-4fec-a496-53932c392b58",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002002005|"
+      ],
+      "target": [
+        "56002002008|مُتَعَقِّلِينَ"
+      ],
+      "meta": {
+        "id": "01078fd7-d50a-4611-8de8-c852f96cc357",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002002006|"
+      ],
+      "target": [
+        "56002002010|صَحِيحِي"
+      ],
+      "meta": {
+        "id": "e863259b-3db6-4f30-bd9d-5c7b2f3879a9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002002007|",
+        "56002002008|"
+      ],
+      "target": [
+        "56002002011|الإِيمَانِ"
+      ],
+      "meta": {
+        "id": "c93fcd1b-315b-4a53-b4ff-70a236b16425",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002002009|",
+        "56002002010|"
+      ],
+      "target": [
+        "56002002012|وَالْمَحَبَّةِ"
+      ],
+      "meta": {
+        "id": "b2049abc-c5e9-4168-aa65-51366429ca9d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002002011|",
+        "56002002012|"
+      ],
+      "target": [
+        "56002002013|وَالصَّبْرِ"
+      ],
+      "meta": {
+        "id": "bc33916a-6b55-4984-8b41-169c88e543ec",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002003001|"
+      ],
+      "target": [
+        "56002003004|الْعَجَائِزُ"
+      ],
+      "meta": {
+        "id": "e1852158-2d31-4631-811e-fc7556fa60d8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002003002|"
+      ],
+      "target": [
+        "56002003001|وَكَذَلِكَ",
+        "56002003002|أَنْ",
+        "56002003003|تَكُونَ"
+      ],
+      "meta": {
+        "id": "de57d4bf-88f1-4448-a57c-2e5071586c0a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002003003|"
+      ],
+      "target": [
+        "56002003005|ذَوَاتِ"
+      ],
+      "meta": {
+        "id": "926b897e-24f6-4ef5-9cbf-ff172331ce16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002003004|"
+      ],
+      "target": [
+        "56002003006|سِيرَةٍ"
+      ],
+      "meta": {
+        "id": "72e00381-df00-4c59-9890-ccf9ee3899b3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002003005|"
+      ],
+      "target": [
+        "56002003007|مُوَافِقَةٍ",
+        "56002003008|لِلْقَدَاسَةِ"
+      ],
+      "meta": {
+        "id": "247f5702-935b-48d8-9bd0-bc3197515349",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002003006|"
+      ],
+      "target": [
+        "56002003010|غَيْرَ"
+      ],
+      "meta": {
+        "id": "906d6ab0-6759-4ce6-8740-388110f160b4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002003007|"
+      ],
+      "target": [
+        "56002003011|نَمَّامَاتٍ"
+      ],
+      "meta": {
+        "id": "881e0cd9-9064-4a37-95ba-3546ab133f15",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002003008|"
+      ],
+      "target": [
+        "56002003012|وَلا"
+      ],
+      "meta": {
+        "id": "c97f3372-4bd0-4495-9c1f-65c35b65cff4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002003009|"
+      ],
+      "target": [
+        "56002003014|لِلْخَمْرِ"
+      ],
+      "meta": {
+        "id": "3a867206-c396-4ebd-a07a-e19c129d8e4a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002003011|"
+      ],
+      "target": [
+        "56002003013|مُدْمِنَاتٍ"
+      ],
+      "meta": {
+        "id": "edd08b70-f30a-4d67-bc6c-5e141eb53829",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002003012|"
+      ],
+      "target": [
+        "56002003016|بَلْ",
+        "56002003017|مُعَلِّمَاتٍ",
+        "56002003018|لِمَا",
+        "56002003019|هُوَ",
+        "56002003020|صَالِحٌ"
+      ],
+      "meta": {
+        "id": "efc9022a-d708-41ae-9696-d792988a1b5f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002004001|"
+      ],
+      "target": [
+        "56002004001|لِكَيْ"
+      ],
+      "meta": {
+        "id": "7d489cc0-4d84-4ea9-a44a-2c58dff4836f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002004002|"
+      ],
+      "target": [
+        "56002004002|يُدَرِّبْنَ"
+      ],
+      "meta": {
+        "id": "9b395a2c-727b-4c51-99e3-71452e3d1ec6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002004003|",
+        "56002004004|"
+      ],
+      "target": [
+        "56002004003|الشَّابَّاتِ"
+      ],
+      "meta": {
+        "id": "62416645-928e-4456-b874-23a9df1a6555",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002004005|"
+      ],
+      "target": [
+        "56002004007|مُحِبَّاتٍ",
+        "56002004008|لأَزْوَاجِهِنَّ"
+      ],
+      "meta": {
+        "id": "bcb75393-65cb-4021-8ce4-e23df06a422e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002004006|"
+      ],
+      "target": [
+        "56002004004|عَلَى",
+        "56002004005|أَنْ",
+        "56002004006|يَكُنَّ"
+      ],
+      "meta": {
+        "id": "193acbba-f04f-4b81-89ef-96d9a7536ac3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002004007|"
+      ],
+      "target": [
+        "56002004009|وَلأَوْلادِهِنَّ"
+      ],
+      "meta": {
+        "id": "00bb3217-ad62-4efd-9f36-82abfbe52379",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002005001|"
+      ],
+      "target": [
+        "56002005001|مُتَعَقِّلاتٍ"
+      ],
+      "meta": {
+        "id": "75fe8e7f-c27a-4254-93a6-5ed74770c7bd",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002005002|"
+      ],
+      "target": [
+        "56002005003|عَفِيفَاتٍ"
+      ],
+      "meta": {
+        "id": "93fe19da-ae13-4621-ac8e-c8204fc3cc2c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002005003|"
+      ],
+      "target": [
+        "56002005005|مُهْتَمَّاتٍ",
+        "56002005006|بِشُؤُونِ",
+        "56002005007|بُيُوتِهِنَّ"
+      ],
+      "meta": {
+        "id": "13c4b94d-753c-46a6-ae66-f0e6dfef53e6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002005004|"
+      ],
+      "target": [
+        "56002005008|صَالِحَاتٍ"
+      ],
+      "meta": {
+        "id": "b83b3077-a4ee-4c8c-8374-ce95d11edc4a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002005005|"
+      ],
+      "target": [
+        "56002005010|خَاضِعَاتٍ"
+      ],
+      "meta": {
+        "id": "58424d89-0b7b-49fc-9fcd-7cbdbe3a3acb",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002005007|",
+        "56002005008|"
+      ],
+      "target": [
+        "56002005011|لأَزْوَاجِهِنَّ"
+      ],
+      "meta": {
+        "id": "e5dd0a42-227e-412b-8a5b-85ef3387dd68",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002005009|"
+      ],
+      "target": [
+        "56002005013|حَتَّى"
+      ],
+      "meta": {
+        "id": "1dd1082c-ff70-40de-af74-ae5fcfc974a3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002005010|"
+      ],
+      "target": [
+        "56002005014|لَا"
+      ],
+      "meta": {
+        "id": "dfd2a3b2-6416-45a4-ab2e-d8946645ff8c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002005012|"
+      ],
+      "target": [
+        "56002005018|عَلَى",
+        "56002005019|كَلِمَةِ"
+      ],
+      "meta": {
+        "id": "ac3a0007-ddc8-4f1d-ae0e-f7038f444ee4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002005013|",
+        "56002005014|"
+      ],
+      "target": [
+        "56002005020|اللهِ"
+      ],
+      "meta": {
+        "id": "f1d0a591-5339-4bbb-a0ed-d3ed71cd5819",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002005015|"
+      ],
+      "target": [
+        "56002005015|يَتَكَلَّمَ",
+        "56002005016|أَحَدٌ",
+        "56002005017|بِالسُّوءِ"
+      ],
+      "meta": {
+        "id": "31a4f7aa-72e0-407b-9c1d-044fa5e87e1a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002006001|",
+        "56002006002|"
+      ],
+      "target": [
+        "56002006003|الشُّبَّانَ"
+      ],
+      "meta": {
+        "id": "d8229aa1-941f-41ff-9b47-7b460d2fdcc5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002006003|"
+      ],
+      "target": [
+        "56002006001|كَذَلِكَ"
+      ],
+      "meta": {
+        "id": "74a06d5f-d29a-4ea6-9e83-ed406d948ce2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002006004|"
+      ],
+      "target": [
+        "56002006002|عِظِ"
+      ],
+      "meta": {
+        "id": "2561706b-53a4-414b-8f5a-cef3949bf0ba",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002006005|"
+      ],
+      "target": [
+        "56002006004|أَنْ",
+        "56002006005|يَكُونُوا",
+        "56002006006|مُتَعَقِّلِينَ"
+      ],
+      "meta": {
+        "id": "fcc20027-ead5-449d-bad2-21c91dec60cb",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002007001|"
+      ],
+      "target": [
+        "56002007004|فِي"
+      ],
+      "meta": {
+        "id": "b24f097e-1f54-46d9-a58c-669e20bc834d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002007002|"
+      ],
+      "target": [
+        "56002007005|كُلِّ",
+        "56002007006|شَيْءٍ"
+      ],
+      "meta": {
+        "id": "45dc33df-f28d-45a0-bddf-d9ec536ac07f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002007003|"
+      ],
+      "target": [
+        "56002007002|مِنْ",
+        "56002007003|نَفْسِكَ"
+      ],
+      "meta": {
+        "id": "1f1ec4fa-7952-4b09-a1c0-ec9c98dcee4e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002007004|"
+      ],
+      "target": [
+        "56002007001|جَاعِلاً"
+      ],
+      "meta": {
+        "id": "235bf89f-b486-429f-9a1f-147680fa0091",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002007005|"
+      ],
+      "target": [
+        "56002007007|قُدْوَةً"
+      ],
+      "meta": {
+        "id": "47c7dcff-c9bf-4e0a-97d6-197273c38d57",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002007006|"
+      ],
+      "target": [
+        "56002007009|الصَّالِحَةِ"
+      ],
+      "meta": {
+        "id": "935d7ae8-db11-4948-826a-24892a04e67c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002007007|"
+      ],
+      "target": [
+        "56002007008|لِلأَعْمَالِ"
+      ],
+      "meta": {
+        "id": "8af6be4c-716a-4d6b-96fd-ee0dac347000",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002007008|"
+      ],
+      "target": [
+        "56002007011|مُظْهِراً",
+        "56002007012|فِي"
+      ],
+      "meta": {
+        "id": "5c7ae2dc-e237-424f-90df-cdc864f984dd",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002007009|",
+        "56002007010|"
+      ],
+      "target": [
+        "56002007013|تَعْلِيمِكَ"
+      ],
+      "meta": {
+        "id": "8df9648f-b62e-46f8-969f-745b6a514fa6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002007011|"
+      ],
+      "target": [
+        "56002007014|النَّقَاوَةَ"
+      ],
+      "meta": {
+        "id": "bc290b9d-1755-43ac-8472-898c77c27042",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002007012|"
+      ],
+      "target": [
+        "56002007015|وَالْوَقَارَ"
+      ],
+      "meta": {
+        "id": "a12c9ef8-e038-435d-9f5a-cd6ee2f4e179",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002008001|"
+      ],
+      "target": [
+        "56002008001|وَالْكَلِمَةَ"
+      ],
+      "meta": {
+        "id": "3ed4c81e-0db4-466a-8e85-91485936387e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002008002|"
+      ],
+      "target": [
+        "56002008002|الصَّحِيحَةَ"
+      ],
+      "meta": {
+        "id": "5fba3359-82c4-429c-aa41-8f5355a97105",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002008003|"
+      ],
+      "target": [
+        "56002008003|الَّتِي",
+        "56002008004|لَا",
+        "56002008005|تُلامُ"
+      ],
+      "meta": {
+        "id": "1bf9f67f-5a74-41e4-becf-a263af41224a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002008004|"
+      ],
+      "target": [
+        "56002008007|لِكَيْ"
+      ],
+      "meta": {
+        "id": "0ea99741-349c-4031-8732-624fabe7392c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002008007|"
+      ],
+      "target": [
+        "56002008009|الْمُقَاوِمُ"
+      ],
+      "meta": {
+        "id": "b6cfe6b3-e88c-4216-a1d0-199e18e0217b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002008008|"
+      ],
+      "target": [
+        "56002008008|يَخْجَلَ"
+      ],
+      "meta": {
+        "id": "91dc956d-ab50-4baf-9cb9-ed955c5aa8dd",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002008009|"
+      ],
+      "target": [
+        "56002008011|لَا",
+        "56002008013|أَمْراً"
+      ],
+      "meta": {
+        "id": "32294060-a5f8-4145-b6a1-b304d9ee7eaf",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002008010|"
+      ],
+      "target": [
+        "56002008010|حِينَ",
+        "56002008012|يَجِدُ"
+      ],
+      "meta": {
+        "id": "909367ae-bedf-435a-99e2-5358f94a5eae",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002008011|"
+      ],
+      "target": [
+        "56002008015|يَقُولُهُ"
+      ],
+      "meta": {
+        "id": "ef7c23b4-74d1-4cb4-86bc-caa33b20f203",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002008012|",
+        "56002008013|"
+      ],
+      "target": [
+        "56002008016|فِينَا"
+      ],
+      "meta": {
+        "id": "d2bb4cd5-ea17-4dbf-8cdd-60c62bd06191",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002008014|"
+      ],
+      "target": [
+        "56002008014|سَيِّئاً"
+      ],
+      "meta": {
+        "id": "87155e3e-32e3-43e5-ae87-d7e4fa6d67fb",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002009001|"
+      ],
+      "target": [
+        "56002009002|الْعَبِيدَ"
+      ],
+      "meta": {
+        "id": "c4d4d0d1-f03f-4bcb-bdb1-fa196dd9f4fe",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002009002|",
+        "56002009003|"
+      ],
+      "target": [
+        "56002009006|لِسَادَتِهِمْ"
+      ],
+      "meta": {
+        "id": "3af5fcf7-0225-44dc-b57d-c49b123a72ed",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002009004|"
+      ],
+      "target": [
+        "56002009003|أَنْ",
+        "56002009004|يَكُونُوا",
+        "56002009005|خَاضِعِينَ"
+      ],
+      "meta": {
+        "id": "22e0977b-2e03-4c37-b28c-c19bcf11b220",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002009005|"
+      ],
+      "target": [
+        "56002009010|فِي"
+      ],
+      "meta": {
+        "id": "c9b46ba9-4fc5-47df-80db-39afc45ac86a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002009006|"
+      ],
+      "target": [
+        "56002009011|كُلِّ",
+        "56002009012|شَيْءٍ"
+      ],
+      "meta": {
+        "id": "1a247d15-5522-4e53-8763-d6ead75dc588",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002009007|"
+      ],
+      "target": [
+        "56002009008|مُرْضِينَ",
+        "56002009009|لَهُمْ"
+      ],
+      "meta": {
+        "id": "e9f98c9f-ef89-4b3c-8054-a723e7953fca",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002009009|"
+      ],
+      "target": [
+        "56002009014|غَيْرَ"
+      ],
+      "meta": {
+        "id": "06d7c391-6406-4bb9-a931-2ba7e81b41b0",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002009010|"
+      ],
+      "target": [
+        "56002009015|مُعَانِدِينَ"
+      ],
+      "meta": {
+        "id": "e7c70981-7280-46df-8690-790829568ac6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010001|"
+      ],
+      "target": [
+        "56002010001|وَلا"
+      ],
+      "meta": {
+        "id": "0319d845-8721-4ce3-a769-cde512451304",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010002|"
+      ],
+      "target": [
+        "56002010002|سَارِقِينَ"
+      ],
+      "meta": {
+        "id": "145d65b2-0d4c-4aa0-8f2a-2661c3c2a9a7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010003|"
+      ],
+      "target": [
+        "56002010004|بَلْ"
+      ],
+      "meta": {
+        "id": "f880232c-93f4-4821-bef6-36eefd2b315c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010004|"
+      ],
+      "target": [
+        "56002010007|كُلِّيَّةً"
+      ],
+      "meta": {
+        "id": "bc1d8a79-b7e3-4491-92ac-25e834f12e64",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010005|"
+      ],
+      "target": [
+        "56002010006|أَمَانَةً"
+      ],
+      "meta": {
+        "id": "a256c53e-c211-4905-b18a-cc07974a1a17",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010006|"
+      ],
+      "target": [
+        "56002010005|مُظْهِرِينَ"
+      ],
+      "meta": {
+        "id": "e167bcf1-a92c-496b-870f-3911a4c80414",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010007|"
+      ],
+      "target": [
+        "56002010008|صَالِحَةً"
+      ],
+      "meta": {
+        "id": "f635e89b-6a19-4d7f-892f-2ef556058631",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010008|"
+      ],
+      "target": [
+        "56002010010|لِكَيْ"
+      ],
+      "meta": {
+        "id": "b356ea5a-1309-4eb4-a2ad-734e8dbf8d48",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010010|"
+      ],
+      "target": [
+        "56002010015|تَعْلِيمَ"
+      ],
+      "meta": {
+        "id": "ca7747ec-88da-4381-a0f8-b38e5f09bfd3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010013|",
+        "56002010014|"
+      ],
+      "target": [
+        "56002010016|مُخَلِّصِنَا"
+      ],
+      "meta": {
+        "id": "27db23b0-5eff-4529-917c-6e1aa0d1700d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010015|"
+      ],
+      "target": [
+        "56002010017|اللهِ"
+      ],
+      "meta": {
+        "id": "d6eedf1e-1f44-415a-b2f3-22629a57534b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010016|"
+      ],
+      "target": [
+        "56002010011|يُزَيِّنُوا"
+      ],
+      "meta": {
+        "id": "96cf53d1-4820-4b46-a383-792a8062a71f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010017|"
+      ],
+      "target": [
+        "56002010012|فِي"
+      ],
+      "meta": {
+        "id": "34cfdff0-1086-46f2-9010-309024842ebb",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002010018|"
+      ],
+      "target": [
+        "56002010013|كُلِّ",
+        "56002010014|شَيْءٍ"
+      ],
+      "meta": {
+        "id": "bd583d93-110c-44ea-af29-59770c6d6f09",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002011001|"
+      ],
+      "target": [
+        "56002011011|قَدْ",
+        "56002011012|ظَهَرَتْ"
+      ],
+      "meta": {
+        "id": "18056ff5-8c6e-4ffc-8d03-8696533059fd",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002011002|"
+      ],
+      "target": [
+        "56002011001|فَإِنَّ"
+      ],
+      "meta": {
+        "id": "f9f88529-e7e5-4c90-b200-a81563b177bf",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002011004|"
+      ],
+      "target": [
+        "56002011002|نِعْمَةَ"
+      ],
+      "meta": {
+        "id": "fc8f9e8a-e703-442b-95a9-29019e7ff234",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002011005|",
+        "56002011006|"
+      ],
+      "target": [
+        "56002011003|اللهِ"
+      ],
+      "meta": {
+        "id": "1b3322c1-43ae-409d-ac47-a78f7a984149",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002011007|"
+      ],
+      "target": [
+        "56002011004|الَّتِي",
+        "56002011005|تَحْمِلُ",
+        "56002011006|مَعَهَا",
+        "56002011007|الْخَلاصَ"
+      ],
+      "meta": {
+        "id": "a8548a67-c1e9-4f22-9901-5d7d3b1c1869",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002011008|"
+      ],
+      "target": [
+        "56002011008|لِجَمِيعِ"
+      ],
+      "meta": {
+        "id": "eef9d527-69bd-493c-8d38-bdc2a2531dc3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002011009|"
+      ],
+      "target": [
+        "56002011009|النَّاسِ"
+      ],
+      "meta": {
+        "id": "620af5a4-c7d1-450b-b670-a0a9abba74bc",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002012001|",
+        "56002012002|"
+      ],
+      "target": [
+        "56002012001|وَهِي",
+        "56002012002|تُعَلِّمُنَا"
+      ],
+      "meta": {
+        "id": "95857dab-46ac-45a4-bea5-52a1c05a7078",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002012003|"
+      ],
+      "target": [
+        "56002012003|أَنْ"
+      ],
+      "meta": {
+        "id": "c126934b-c9fe-4ba5-8a34-8a73e961e2d2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002012004|"
+      ],
+      "target": [
+        "56002012004|نَقْطَعَ",
+        "56002012005|عَلاقَتَنَا"
+      ],
+      "meta": {
+        "id": "7031a421-c763-40d0-9c50-b152638bc5e2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002012005|",
+        "56002012006|"
+      ],
+      "target": [
+        "56002012006|بِالإِبَاحِيَّةِ"
+      ],
+      "meta": {
+        "id": "49fde6c0-ce96-403c-b005-0b40146443f7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002012007|",
+        "56002012008|",
+        "56002012010|"
+      ],
+      "target": [
+        "56002012007|وَالشَّهَوَاتِ"
+      ],
+      "meta": {
+        "id": "a15e526c-8440-4980-b6e3-527a448ebe09",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002012009|"
+      ],
+      "target": [
+        "56002012008|الْعَالَمِيَّةِ"
+      ],
+      "meta": {
+        "id": "b165fb4e-de00-4528-8031-999d3f5f102b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002012011|"
+      ],
+      "target": [
+        "56002012015|حَيَاةَ",
+        "56002012016|التَّعَقُّلِ"
+      ],
+      "meta": {
+        "id": "8b0a54b2-4e7c-46e6-a8ed-6c581538afca",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002012012|",
+        "56002012013|"
+      ],
+      "target": [
+        "56002012017|وَالْبِرِّ"
+      ],
+      "meta": {
+        "id": "7462cc96-ce8a-435d-a1e4-8ea7e6c8bda3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002012014|",
+        "56002012015|"
+      ],
+      "target": [
+        "56002012018|وَالتَّقْوَى"
+      ],
+      "meta": {
+        "id": "322f6675-957b-4c38-a103-58621913f3bc",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002012016|"
+      ],
+      "target": [
+        "56002012010|وَأَنْ",
+        "56002012011|نَحْيَا"
+      ],
+      "meta": {
+        "id": "5a19c853-6275-4b8f-ada2-618b8314ccaf",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002012017|"
+      ],
+      "target": [
+        "56002012012|فِي"
+      ],
+      "meta": {
+        "id": "15a8660d-b1fb-48ed-a396-5c9058e502f2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002012018|",
+        "56002012020|"
+      ],
+      "target": [
+        "56002012013|الْعَصْرِ"
+      ],
+      "meta": {
+        "id": "8e17fab2-5c87-46b3-b972-b3fbc1deb0ef",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002012019|"
+      ],
+      "target": [
+        "56002012014|الْحَاضِرِ"
+      ],
+      "meta": {
+        "id": "b22c3ecd-ec82-4fe4-b828-ea437e25b4c0",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002013001|"
+      ],
+      "target": [
+        "56002013001|فِيمَا",
+        "56002013002|نَنْتَظِرُ"
+      ],
+      "meta": {
+        "id": "622a209a-ed13-4c1c-9b96-cab165240257",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002013002|",
+        "56002013004|"
+      ],
+      "target": [
+        "56002013003|تَحْقِيقَ",
+        "56002013004|رَجَائِنَا"
+      ],
+      "meta": {
+        "id": "b3188cad-4b2c-4add-82e5-609e3b89828a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002013003|"
+      ],
+      "target": [
+        "56002013005|السَّعِيدِ"
+      ],
+      "meta": {
+        "id": "ac49f375-37e8-4d9e-8113-dd2e1703c6a9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002013005|"
+      ],
+      "target": [
+        "56002013007|ثُمَّ"
+      ],
+      "meta": {
+        "id": "0ed94770-0c69-4065-ba42-4b2b181e0741",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002013006|"
+      ],
+      "target": [
+        "56002013008|الظُّهُورَ",
+        "56002013009|العَلَنِيَّ"
+      ],
+      "meta": {
+        "id": "a1bc7f6c-ec98-480e-b2b8-1f58cbdce806",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002013008|"
+      ],
+      "target": [
+        "56002013010|لِمَجْدِ"
+      ],
+      "meta": {
+        "id": "bf5d2f5f-fb5f-4fae-a70e-1ba326f2b22c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002013009|",
+        "56002013011|"
+      ],
+      "target": [
+        "56002013011|إِلَهِنَا"
+      ],
+      "meta": {
+        "id": "0f0d5fd3-baaf-48c1-a2f9-4d8bdf5f3501",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002013010|"
+      ],
+      "target": [
+        "56002013013|الْعَظِيمِ"
+      ],
+      "meta": {
+        "id": "41000d0d-a514-4e42-b109-deb31f58fbc4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002013012|",
+        "56002013013|",
+        "56002013014|"
+      ],
+      "target": [
+        "56002013012|وَمُخَلِّصِنَا"
+      ],
+      "meta": {
+        "id": "ca5987a5-6645-4f75-a3e7-479ef0d9ba6c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002013015|"
+      ],
+      "target": [
+        "56002013014|يَسُوعَ"
+      ],
+      "meta": {
+        "id": "9d31ce49-dc4b-4c1d-9f0a-fa1e151f207b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002013016|"
+      ],
+      "target": [
+        "56002013015|الْمَسِيحِ"
+      ],
+      "meta": {
+        "id": "a8c8b5c6-a78f-4532-a608-91d1872fb257",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014001|"
+      ],
+      "target": [
+        "56002014001|الَّذِي"
+      ],
+      "meta": {
+        "id": "997328fe-b7ff-428c-92a6-4a0764300fc0",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014002|"
+      ],
+      "target": [
+        "56002014002|بَذَلَ"
+      ],
+      "meta": {
+        "id": "f14a65b4-f597-442e-9c6b-b26bb38ed11d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014003|"
+      ],
+      "target": [
+        "56002014003|نَفْسَهُ"
+      ],
+      "meta": {
+        "id": "6b78396f-5ded-4185-b46b-2183218b338f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014004|",
+        "56002014005|"
+      ],
+      "target": [
+        "56002014004|لأَجْلِنَا"
+      ],
+      "meta": {
+        "id": "b68f1efc-d726-4f97-979e-10e3a5937128",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014006|"
+      ],
+      "target": [
+        "56002014005|لِكَيْ"
+      ],
+      "meta": {
+        "id": "f9417067-7161-4b5e-9e01-e90c49fd75d5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014007|",
+        "56002014008|"
+      ],
+      "target": [
+        "56002014006|يَفْتَدِيَنَا"
+      ],
+      "meta": {
+        "id": "56840e66-fb10-4a09-b05e-167b108eebb1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014009|"
+      ],
+      "target": [
+        "56002014007|مِنْ"
+      ],
+      "meta": {
+        "id": "5b3068d8-0b98-4056-a79a-81f00ad50125",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014010|"
+      ],
+      "target": [
+        "56002014008|كُلِّ"
+      ],
+      "meta": {
+        "id": "c013d242-1794-4f0e-8933-aecda5a91eee",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014011|"
+      ],
+      "target": [
+        "56002014009|إِثْمٍ"
+      ],
+      "meta": {
+        "id": "9d0dcebe-00aa-4092-9e25-1b6433279ee5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014012|",
+        "56002014013|"
+      ],
+      "target": [
+        "56002014010|وَيُطَهِّرَنَا"
+      ],
+      "meta": {
+        "id": "1cd1711b-bfb1-4441-8a72-8be0855507de",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014014|"
+      ],
+      "target": [
+        "56002014011|لِنَفْسِهِ"
+      ],
+      "meta": {
+        "id": "865495ea-e60b-4ea7-beb5-a20a13d28a6d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014015|"
+      ],
+      "target": [
+        "56002014012|شَعْباً"
+      ],
+      "meta": {
+        "id": "900b6dfa-77e8-4817-a8e9-fda9b335ac66",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014016|"
+      ],
+      "target": [
+        "56002014013|خَاصّاً"
+      ],
+      "meta": {
+        "id": "86554e22-23d4-4752-b752-40dcecebce08",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014017|"
+      ],
+      "target": [
+        "56002014014|يَجْتَهِدُ",
+        "56002014015|بِحَمَاسَةٍ"
+      ],
+      "meta": {
+        "id": "8ab13c51-3037-4da6-8a23-1240ab82fae4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014018|"
+      ],
+      "target": [
+        "56002014018|الصَّالِحَةِ"
+      ],
+      "meta": {
+        "id": "10d478f8-05ed-41aa-a7c1-e0371658ceba",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002014019|"
+      ],
+      "target": [
+        "56002014016|فِي",
+        "56002014017|الأَعْمَالِ"
+      ],
+      "meta": {
+        "id": "ade7ec26-9fa0-4a08-ba43-aa3e8e6ea6af",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002015001|"
+      ],
+      "target": [
+        "56002015001|بِهَذِهِ",
+        "56002015002|الأُمُورِ"
+      ],
+      "meta": {
+        "id": "da8ab3bd-a4a8-4550-b61f-374eeabd7484",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002015002|"
+      ],
+      "target": [
+        "56002015003|تَكَلَّمْ"
+      ],
+      "meta": {
+        "id": "0bbaa5a7-8eaa-46f2-ac26-fd319445f35c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002015003|",
+        "56002015004|"
+      ],
+      "target": [
+        "56002015005|وَعِظْ"
+      ],
+      "meta": {
+        "id": "8616bd40-9eb1-4f7f-9c9a-51447b1cf945",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002015005|",
+        "56002015006|"
+      ],
+      "target": [
+        "56002015007|وَوَبِّخْ"
+      ],
+      "meta": {
+        "id": "7a38a921-1120-4443-8a21-f2cdf693f841",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002015007|",
+        "56002015008|"
+      ],
+      "target": [
+        "56002015008|بِكُلِّ"
+      ],
+      "meta": {
+        "id": "c7261827-a0b6-4eb9-88cb-c87d06770a9e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002015009|"
+      ],
+      "target": [
+        "56002015009|سُلْطَانٍ"
+      ],
+      "meta": {
+        "id": "101bf7cd-6a25-4082-ba11-9899a1b21da1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002015010|"
+      ],
+      "target": [
+        "56002015011|وَلا",
+        "56002015013|أَحَداً"
+      ],
+      "meta": {
+        "id": "8b8723cf-c7e9-40e0-8079-cb8538e4fa61",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002015011|"
+      ],
+      "target": [
+        "56002015015|بِكَ"
+      ],
+      "meta": {
+        "id": "619cfc22-c15f-41d4-81a5-b3aa84d3efe5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56002015012|"
+      ],
+      "target": [
+        "56002015012|تَدَعْ",
+        "56002015014|يَسْتَخِفُّ"
+      ],
+      "meta": {
+        "id": "c1e84092-8b4f-4266-ba1a-990f11c8e476",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003001001|"
+      ],
+      "target": [
+        "56003001001|ذَكِّرِ"
+      ],
+      "meta": {
+        "id": "615bdedb-439e-4207-b831-9eb7ba0a5138",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003001002|"
+      ],
+      "target": [
+        "56003001002|الْمُؤْمِنِينَ"
+      ],
+      "meta": {
+        "id": "1da71298-d5cd-43c6-be2b-435a94762a78",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003001003|"
+      ],
+      "target": [
+        "56003001005|لِلْحُكَّامِ"
+      ],
+      "meta": {
+        "id": "ca15b024-69e8-4fe0-99bf-0871bb872843",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003001004|"
+      ],
+      "target": [
+        "56003001006|وَالسُّلُطَاتِ"
+      ],
+      "meta": {
+        "id": "ff7079a8-814b-44a0-bf04-b8a94dfe0e13",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003001005|"
+      ],
+      "target": [
+        "56003001003|أَنْ",
+        "56003001004|يَخْضَعُوا"
+      ],
+      "meta": {
+        "id": "8de8d252-b8ac-4db3-9117-dabcb0bbb902",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003001006|"
+      ],
+      "target": [
+        "56003001008|وَيُطِيعُوا",
+        "56003001009|الْقَانُونَ"
+      ],
+      "meta": {
+        "id": "6b5f16f8-8655-4f4b-8532-31d34d389dba",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003001007|",
+        "56003001008|"
+      ],
+      "target": [
+        "56003001013|لِكُلِّ"
+      ],
+      "meta": {
+        "id": "73ea371e-d969-4cd2-a52d-80969e0e1434",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003001009|"
+      ],
+      "target": [
+        "56003001014|عَمَلٍ"
+      ],
+      "meta": {
+        "id": "8f6eeea6-36f6-4e94-aeb2-7f282d6368c5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003001010|"
+      ],
+      "target": [
+        "56003001015|صَالِحٍ"
+      ],
+      "meta": {
+        "id": "67c02036-6d8d-411c-be9f-8c2f0fd03346",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003001011|"
+      ],
+      "target": [
+        "56003001012|مُسْتَعِدِّينَ"
+      ],
+      "meta": {
+        "id": "4bb03408-464e-49ac-9287-c27dae4630dc",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003001012|"
+      ],
+      "target": [
+        "56003001011|وَيَكُونُوا"
+      ],
+      "meta": {
+        "id": "813afed7-f18e-40e1-b9b3-898f55c0a1e3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003002001|"
+      ],
+      "target": [
+        "56003002001|وَلا",
+        "56003002004|فِي",
+        "56003002005|أَحَدٍ"
+      ],
+      "meta": {
+        "id": "81199dfd-03d9-4772-b999-24cec9fda0a9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003002002|"
+      ],
+      "target": [
+        "56003002002|يَقُولُوا",
+        "56003002003|سُوءاً"
+      ],
+      "meta": {
+        "id": "4e256c97-3b65-4511-a98a-e177bf91e248",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003002003|"
+      ],
+      "target": [
+        "56003002007|وَلا",
+        "56003002009|مُخَاصِمِينَ"
+      ],
+      "meta": {
+        "id": "2b07de8f-8fde-48d3-8e72-70b7d6bfd4fd",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003002004|"
+      ],
+      "target": [
+        "56003002008|يَكُونُوا"
+      ],
+      "meta": {
+        "id": "c4452578-94ef-46b5-b57f-fb8c5c7992a6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003002005|"
+      ],
+      "target": [
+        "56003002012|لُطَفَاءَ"
+      ],
+      "meta": {
+        "id": "3fba8bbb-fa24-4a98-9740-00fe74162086",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003002006|"
+      ],
+      "target": [
+        "56003002016|تَامَّةٍ"
+      ],
+      "meta": {
+        "id": "ebe7dfc1-a5a2-4f1f-877d-ed3a80e4c9cb",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003002007|"
+      ],
+      "target": [
+        "56003002011|بَلْ",
+        "56003002013|يُعَامِلُونَ"
+      ],
+      "meta": {
+        "id": "ec876094-6940-43f6-b2d1-549b43a2de36",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003002008|"
+      ],
+      "target": [
+        "56003002015|بِوَدَاعَةٍ"
+      ],
+      "meta": {
+        "id": "9e92f971-c5a7-4d84-8d4a-2bf51a0cb3d0",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003002010|"
+      ],
+      "target": [
+        "56003002014|الْجَمِيعَ"
+      ],
+      "meta": {
+        "id": "52c90243-b417-46f7-8c7a-f1434a2affda",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003001|"
+      ],
+      "target": [
+        "56003003004|كُنَّا"
+      ],
+      "meta": {
+        "id": "39c38ac4-21f4-4093-9384-2899f266599d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003002|"
+      ],
+      "target": [
+        "56003003001|فَإِنَّنَا"
+      ],
+      "meta": {
+        "id": "8c73e1ae-10ff-4f34-a6de-8f2383015ff6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003003|"
+      ],
+      "target": [
+        "56003003005|فِي",
+        "56003003006|الْمَاضِي"
+      ],
+      "meta": {
+        "id": "bdc45bfc-fdf0-4c16-9dff-82f3b7c9815b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003004|"
+      ],
+      "target": [
+        "56003003003|أَيْضاً"
+      ],
+      "meta": {
+        "id": "3f575114-b469-4826-b997-741c24f0b2d3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003005|"
+      ],
+      "target": [
+        "56003003002|نَحْنُ"
+      ],
+      "meta": {
+        "id": "0385d2b9-8d62-4262-bd96-13a749c3c2af",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003006|"
+      ],
+      "target": [
+        "56003003007|جُهَّالاً"
+      ],
+      "meta": {
+        "id": "8e665b1a-7caa-41a6-84f5-ca1cf600882a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003007|"
+      ],
+      "target": [
+        "56003003009|غَيْرَ",
+        "56003003010|مُطِيعِينَ"
+      ],
+      "meta": {
+        "id": "00942865-5b6f-43bd-8e7b-da4e7ff7769f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003008|"
+      ],
+      "target": [
+        "56003003012|تَائِهِينَ",
+        "56003003013|فِي",
+        "56003003014|الضَّلالِ"
+      ],
+      "meta": {
+        "id": "db0b70ff-5372-4ba0-9ab3-c7ece813f816",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003009|"
+      ],
+      "target": [
+        "56003003016|عَبِيداً",
+        "56003003017|يَخْدِمُونَ"
+      ],
+      "meta": {
+        "id": "866f5d16-0491-41d6-9f2f-2f96ef45be63",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003010|"
+      ],
+      "target": [
+        "56003003018|الشَّهَوَاتِ"
+      ],
+      "meta": {
+        "id": "006f276d-9e97-4f50-8729-c758ba9dad4b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003011|",
+        "56003003012|"
+      ],
+      "target": [
+        "56003003019|وَاللَّذَّاتِ"
+      ],
+      "meta": {
+        "id": "b66c750d-0cce-476b-8ab7-360989913f74",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003013|"
+      ],
+      "target": [
+        "56003003020|الْمُخْتَلِفَةَ"
+      ],
+      "meta": {
+        "id": "ab557f44-8e1b-4a8b-907a-fa4043b720b5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003014|"
+      ],
+      "target": [
+        "56003003023|فِي"
+      ],
+      "meta": {
+        "id": "62351139-5665-48f7-81fc-bef7bd1c9880",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003015|"
+      ],
+      "target": [
+        "56003003024|الْخُبْثِ"
+      ],
+      "meta": {
+        "id": "7b2ab6f2-0b58-4d4f-a36a-b7c405f3418f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003016|",
+        "56003003017|"
+      ],
+      "target": [
+        "56003003025|وَالْحَسَدِ"
+      ],
+      "meta": {
+        "id": "c3dc19b6-60bd-486e-bc99-49206c26441d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003018|"
+      ],
+      "target": [
+        "56003003022|نَعِيشُ"
+      ],
+      "meta": {
+        "id": "c6014a7c-b1f2-4255-a32c-4166e4146362",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003019|"
+      ],
+      "target": [
+        "56003003027|مَكْرُوهِينَ"
+      ],
+      "meta": {
+        "id": "8b485226-5c03-445f-9afa-6ebd82731c77",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003020|"
+      ],
+      "target": [
+        "56003003029|وَكَارِهِينَ"
+      ],
+      "meta": {
+        "id": "88932d1b-acf3-40cf-85c4-0a86f51db083",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003003021|"
+      ],
+      "target": [
+        "56003003030|بَعْضُنَا",
+        "56003003031|لِبَعْضٍ"
+      ],
+      "meta": {
+        "id": "25966d2d-7d51-4a08-be59-cb0408b58dea",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003004001|"
+      ],
+      "target": [
+        "56003004003|لَمَّا"
+      ],
+      "meta": {
+        "id": "47d1f1bd-6c87-4a12-9fe4-4f8e4e2558f5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003004002|"
+      ],
+      "target": [
+        "56003004001|وَلَكِنْ"
+      ],
+      "meta": {
+        "id": "4fac6b6c-976c-4d3c-8afc-69cbe9850f24",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003004004|"
+      ],
+      "target": [
+        "56003004005|لُطْفُ"
+      ],
+      "meta": {
+        "id": "46ac798e-544a-4b72-ab74-c3213a9a903f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003004005|",
+        "56003004006|",
+        "56003004007|"
+      ],
+      "target": [
+        "56003004009|وَمَحَبَّتُهُ",
+        "56003004010|لِلنَّاسِ"
+      ],
+      "meta": {
+        "id": "df47ba15-205c-494d-98ef-b6f163b241b1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003004008|"
+      ],
+      "target": [
+        "56003004004|ظَهَرَ"
+      ],
+      "meta": {
+        "id": "2f6c8fd7-cf9b-4ab3-a32e-53dd07d0eecf",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003004010|",
+        "56003004011|"
+      ],
+      "target": [
+        "56003004006|مُخَلِّصِنَا"
+      ],
+      "meta": {
+        "id": "212ec48b-c483-4854-a465-abd2926106ba",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003004012|"
+      ],
+      "target": [
+        "56003004007|اللهِ"
+      ],
+      "meta": {
+        "id": "de7aed0e-159a-4499-8617-9e63f93f4e83",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005001|"
+      ],
+      "target": [
+        "56003005003|لَا"
+      ],
+      "meta": {
+        "id": "0c17ab86-a932-495d-aeea-dc3cf63a59c6",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005002|"
+      ],
+      "target": [
+        "56003005004|عَلَى",
+        "56003005005|أَسَاسِ"
+      ],
+      "meta": {
+        "id": "8b194d99-da70-48c6-a395-475f3c84cc40",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005003|"
+      ],
+      "target": [
+        "56003005006|أَعْمَالِ"
+      ],
+      "meta": {
+        "id": "3b9d9886-ee02-4d76-a277-ea49fdf9f08a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005006|"
+      ],
+      "target": [
+        "56003005007|بِرٍّ"
+      ],
+      "meta": {
+        "id": "a14e93c5-cfaf-4614-8006-8a63fd01c3e4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005007|"
+      ],
+      "target": [
+        "56003005009|بِها"
+      ],
+      "meta": {
+        "id": "48649707-87d5-4ca0-a567-4fe684feae68",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005008|"
+      ],
+      "target": [
+        "56003005008|قُمْنَا"
+      ],
+      "meta": {
+        "id": "5c4aeb2e-f0db-430d-a6a8-09ad8a7cc205",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005009|"
+      ],
+      "target": [
+        "56003005010|نَحْنُ"
+      ],
+      "meta": {
+        "id": "e67bfa7c-2c10-44da-a168-12eed8c2d37d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005010|"
+      ],
+      "target": [
+        "56003005012|وَإِنَّمَا"
+      ],
+      "meta": {
+        "id": "ab1e6257-492a-4b39-94fc-d06ab3aaad74",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005011|"
+      ],
+      "target": [
+        "56003005013|بِمُوجِبِ"
+      ],
+      "meta": {
+        "id": "db75a7c7-7eeb-4a32-84c7-8f8261754c36",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005013|",
+        "56003005014|"
+      ],
+      "target": [
+        "56003005014|رَحْمَتِهِ"
+      ],
+      "meta": {
+        "id": "899a9e94-05f7-45f6-a503-56c02b5a3910",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005015|",
+        "56003005016|"
+      ],
+      "target": [
+        "56003005001|خَلَّصَنَا"
+      ],
+      "meta": {
+        "id": "63b4e21d-aede-41a0-ba07-b3321fe184dc",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005017|"
+      ],
+      "target": [
+        "56003005016|وَذَلِكَ",
+        "56003005017|بِأَنْ"
+      ],
+      "meta": {
+        "id": "d4676588-8a96-419a-8e00-9f219e4227a9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005018|"
+      ],
+      "target": [
+        "56003005018|غَسَلَنَا"
+      ],
+      "meta": {
+        "id": "5b79ed0d-550c-4c85-be1e-edca859158a5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005019|"
+      ],
+      "target": [
+        "56003005020|غُسْلَ",
+        "56003005021|الْخَلِيقَةِ",
+        "56003005022|الْجَدِيدَةِ"
+      ],
+      "meta": {
+        "id": "c614949d-c63e-4387-bae3-699c445399ff",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005020|",
+        "56003005021|"
+      ],
+      "target": [
+        "56003005023|وَالتَّجْدِيدِ"
+      ],
+      "meta": {
+        "id": "27e7d700-4ed8-4f58-b885-b8b9d27054b8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003005022|",
+        "56003005023|"
+      ],
+      "target": [
+        "56003005024|الَّذِي",
+        "56003005025|يُجْرِيهِ",
+        "56003005026|الرُّوحُ",
+        "56003005027|الْقُدُسُ"
+      ],
+      "meta": {
+        "id": "ef7b2ba9-44d9-4166-bbba-ba4fe782db91",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003006001|"
+      ],
+      "target": [
+        "56003006001|الَّذِي"
+      ],
+      "meta": {
+        "id": "59a04697-f109-4f8e-b963-dee64ae9370a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003006002|"
+      ],
+      "target": [
+        "56003006002|سَكَبَهُ"
+      ],
+      "meta": {
+        "id": "dbedb643-752d-4c54-b689-e8be568402c1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003006003|",
+        "56003006004|"
+      ],
+      "target": [
+        "56003006003|عَلَيْنَا"
+      ],
+      "meta": {
+        "id": "8b07d331-f824-49a4-9598-3ccf5ca4a725",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003006005|"
+      ],
+      "target": [
+        "56003006004|بِغِنىً"
+      ],
+      "meta": {
+        "id": "17871ed0-0e17-46db-9538-17004865bff3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003006006|",
+        "56003006007|"
+      ],
+      "target": [
+        "56003006005|بِيَسُوعَ"
+      ],
+      "meta": {
+        "id": "2dc30149-e62e-438b-87d5-487fc8320eeb",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003006008|"
+      ],
+      "target": [
+        "56003006006|الْمَسِيحِ"
+      ],
+      "meta": {
+        "id": "115fcb71-a563-4e56-a08a-ff648ec103bd",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003006010|",
+        "56003006011|"
+      ],
+      "target": [
+        "56003006007|مُخَلِّصِنَا"
+      ],
+      "meta": {
+        "id": "9f810604-d7f0-4260-a543-0df2f7cdeb54",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003007001|"
+      ],
+      "target": [
+        "56003007001|حَتَّى"
+      ],
+      "meta": {
+        "id": "a7338355-07a6-4c18-b25a-d93a12c7480d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003007002|"
+      ],
+      "target": [
+        "56003007002|إِذَا",
+        "56003007003|تَبَرَّرْنَا"
+      ],
+      "meta": {
+        "id": "9bdd4f94-d3cd-440b-8e35-dd6d12f13c6a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003007004|",
+        "56003007005|"
+      ],
+      "target": [
+        "56003007004|بِنِعْمَتِهِ"
+      ],
+      "meta": {
+        "id": "ef149101-09c6-41d0-91dc-419510cb437a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003007006|"
+      ],
+      "target": [
+        "56003007007|وَرَثَةً"
+      ],
+      "meta": {
+        "id": "98c04964-468f-4b99-b88c-05990821f580",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003007007|"
+      ],
+      "target": [
+        "56003007006|نَصِيرُ"
+      ],
+      "meta": {
+        "id": "7b3ea25b-16c8-49cf-ad14-f86cc21df3b8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003007008|"
+      ],
+      "target": [
+        "56003007009|وَفْقاً"
+      ],
+      "meta": {
+        "id": "cbf48614-2de7-40c8-bd1f-819d2a6daaeb",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003007009|"
+      ],
+      "target": [
+        "56003007010|لِرَجَائِنَا"
+      ],
+      "meta": {
+        "id": "f088078b-1324-4858-8daf-665115830b8a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003007010|",
+        "56003007011|"
+      ],
+      "target": [
+        "56003007011|بِالْحَيَاةِ",
+        "56003007012|الأَبَدِيَّةِ"
+      ],
+      "meta": {
+        "id": "b4bc7e28-c996-46fb-af16-b7328866d42d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008001|"
+      ],
+      "target": [
+        "56003008001|صَادِقٌ"
+      ],
+      "meta": {
+        "id": "87950f0e-ede7-402f-99a8-3998df0bbe5b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008002|",
+        "56003008003|"
+      ],
+      "target": [
+        "56003008002|هَذَا",
+        "56003008003|الْقَوْلُ"
+      ],
+      "meta": {
+        "id": "96a8cf30-c230-4261-9f82-fe721ea9845c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008004|",
+        "56003008007|"
+      ],
+      "target": [
+        "56003008005|وَأُرِيدُ"
+      ],
+      "meta": {
+        "id": "a5ad51f7-b99e-4065-9ca6-aacf71f1d51c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008006|"
+      ],
+      "target": [
+        "56003008008|هَذِهِ",
+        "56003008009|الأُمُورَ"
+      ],
+      "meta": {
+        "id": "9129af6f-018e-4975-8cf6-5b4c61404708",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008008|",
+        "56003008009|"
+      ],
+      "target": [
+        "56003008006|أَنْ",
+        "56003008007|تُقَرِّرَ",
+        "56003008010|قَرَاراً",
+        "56003008011|حَاسِماً"
+      ],
+      "meta": {
+        "id": "2a543bda-6ddc-464e-8df0-576729e7a527",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008010|"
+      ],
+      "target": [
+        "56003008013|حَتَّى"
+      ],
+      "meta": {
+        "id": "6216be2d-370c-478c-bd35-b10a041f74c7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008011|"
+      ],
+      "target": [
+        "56003008014|يَهْتَمَّ"
+      ],
+      "meta": {
+        "id": "d4304ee8-b0c5-4b41-8b84-5ad47da19bbf",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008012|"
+      ],
+      "target": [
+        "56003008022|الصَّالِحَةِ"
+      ],
+      "meta": {
+        "id": "9b6a5363-e46e-47c3-a053-8d82deca4c59",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008013|"
+      ],
+      "target": [
+        "56003008020|فِي",
+        "56003008021|الأَعْمَالِ"
+      ],
+      "meta": {
+        "id": "115f8121-9dae-4a06-bc58-b620897f236d",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008014|"
+      ],
+      "target": [
+        "56003008018|بِأَنْ",
+        "56003008019|يَجْتَهِدُوا"
+      ],
+      "meta": {
+        "id": "aeece7a5-0d83-47c4-be4d-c80fd698abc1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008016|"
+      ],
+      "target": [
+        "56003008015|الَّذِينَ",
+        "56003008016|آمَنُوا"
+      ],
+      "meta": {
+        "id": "9ce98b04-9af8-4f31-a019-6319f823e081",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008017|"
+      ],
+      "target": [
+        "56003008017|بِاللهِ"
+      ],
+      "meta": {
+        "id": "935a73d9-1fd4-4ac1-87f8-5608f86c80b8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008018|"
+      ],
+      "target": [
+        "56003008024|هَذِهِ",
+        "56003008025|الأُمُورُ"
+      ],
+      "meta": {
+        "id": "8e70746a-e2ac-430c-bdfe-211cfa56aca8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008020|"
+      ],
+      "target": [
+        "56003008026|حَسَنَةٌ"
+      ],
+      "meta": {
+        "id": "1beb8f2e-a541-46d8-a9b8-b01a3fbf53ca",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008021|",
+        "56003008022|"
+      ],
+      "target": [
+        "56003008027|وَنَافِعَةٌ"
+      ],
+      "meta": {
+        "id": "27bdab7c-ac0b-4c32-9b68-fefc3b1cacda",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003008023|",
+        "56003008024|"
+      ],
+      "target": [
+        "56003008028|لِلنَّاسِ"
+      ],
+      "meta": {
+        "id": "de38a4c5-b162-4e4d-8797-1b0963805b39",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003009001|"
+      ],
+      "target": [
+        "56003009003|السَّخِيفَةُ"
+      ],
+      "meta": {
+        "id": "18f6e2a0-82de-4399-a3ed-9c70b013cf76",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003009002|"
+      ],
+      "target": [
+        "56003009001|أَمَّا"
+      ],
+      "meta": {
+        "id": "2df6526b-5d11-446c-9bfd-36ec0840d9be",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003009003|"
+      ],
+      "target": [
+        "56003009002|الْمَسَائِلُ"
+      ],
+      "meta": {
+        "id": "c2ddedc5-f15d-4086-86dd-ff7d1f276ccc",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003009004|",
+        "56003009005|"
+      ],
+      "target": [
+        "56003009005|وَسَلاسِلُ",
+        "56003009006|النَّسَبِ"
+      ],
+      "meta": {
+        "id": "6b39a308-e302-48d7-956d-edac7df1bc9b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003009006|",
+        "56003009007|"
+      ],
+      "target": [
+        "56003009008|وَالْمُخَاصَمَاتُ"
+      ],
+      "meta": {
+        "id": "6b5eced4-7aa8-45c1-a8b8-ff30d9de0890",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003009008|",
+        "56003009009|"
+      ],
+      "target": [
+        "56003009010|وَالْمُنَازَعَاتُ"
+      ],
+      "meta": {
+        "id": "df1c7cda-b140-4859-a9a0-536390961ac5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003009010|"
+      ],
+      "target": [
+        "56003009011|حَوْلَ",
+        "56003009012|الشَّرِيعَةِ"
+      ],
+      "meta": {
+        "id": "9f4fcede-3c51-4b7e-88b6-8fc535f1a276",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003009011|"
+      ],
+      "target": [
+        "56003009014|فَتَجَنَّبْهَا"
+      ],
+      "meta": {
+        "id": "a139b122-d3be-4b10-817d-838ef276e85e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003009012|",
+        "56003009013|"
+      ],
+      "target": [
+        "56003009016|لأَنَّهَا"
+      ],
+      "meta": {
+        "id": "ea6b36a6-032a-4259-92d5-fbe71a0fea5a",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003009014|"
+      ],
+      "target": [
+        "56003009017|غَيْرُ",
+        "56003009018|نَافِعَةٍ"
+      ],
+      "meta": {
+        "id": "983d74a8-d4c8-43d3-9e75-d4514022d399",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003009015|",
+        "56003009016|"
+      ],
+      "target": [
+        "56003009020|وَبَاطِلَةٌ"
+      ],
+      "meta": {
+        "id": "dcb00196-20c7-4378-80ed-8fd5cb82404b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003010001|"
+      ],
+      "target": [
+        "56003010002|الْهَرْطَقَةِ"
+      ],
+      "meta": {
+        "id": "a25fa464-2b1a-4a16-92e6-6b7e1eb06571",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003010002|"
+      ],
+      "target": [
+        "56003010001|وَصَاحِبُ"
+      ],
+      "meta": {
+        "id": "1c7a728c-b41f-42de-b661-d2408ee9c29f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003010003|"
+      ],
+      "target": [
+        "56003010006|بَعْدَ"
+      ],
+      "meta": {
+        "id": "d2cebb87-052b-4735-9191-633c881e975c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003010004|"
+      ],
+      "target": [
+        "56003010008|أَوَّلاً"
+      ],
+      "meta": {
+        "id": "0e8aa992-ce82-4c8c-8b2a-ff7e4f3c7e7e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003010005|",
+        "56003010006|"
+      ],
+      "target": [
+        "56003010009|وَثَانِياً"
+      ],
+      "meta": {
+        "id": "dfe1f290-4b10-49fb-bfb5-c45d342871a5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003010007|"
+      ],
+      "target": [
+        "56003010007|إِنْذَارِهِ"
+      ],
+      "meta": {
+        "id": "c486980b-bac5-4073-b4fb-c7b74d12fee3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003010008|"
+      ],
+      "target": [
+        "56003010003|اقْطَعِ",
+        "56003010004|الْعَلاقَةَ",
+        "56003010005|بِهِ"
+      ],
+      "meta": {
+        "id": "5c65310f-7041-410a-8bba-c2d2a29d8991",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003011001|"
+      ],
+      "target": [
+        "56003011001|عَالِماً"
+      ],
+      "meta": {
+        "id": "84613385-ef8f-4813-9b2c-35c82648a0a9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003011002|"
+      ],
+      "target": [
+        "56003011002|أَنَّ"
+      ],
+      "meta": {
+        "id": "d4b50838-b0c2-429d-8164-cd97dcfd7aec",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003011003|"
+      ],
+      "target": [
+        "56003011005|مُنْحَرِفٌ"
+      ],
+      "meta": {
+        "id": "ff7f8a73-5578-43c9-886e-e64e71c24079",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003011005|"
+      ],
+      "target": [
+        "56003011003|مِثْلَ",
+        "56003011004|هَذَا"
+      ],
+      "meta": {
+        "id": "5c4a2895-7289-4350-a0d1-8145f499febf",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003011007|"
+      ],
+      "target": [
+        "56003011006|يَمْضِي",
+        "56003011007|فِي",
+        "56003011008|الْخَطِيئَةِ"
+      ],
+      "meta": {
+        "id": "9471476a-68ee-4e28-9dc9-eafe0b41d282",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003011008|",
+        "56003011009|"
+      ],
+      "target": [
+        "56003011009|وَقَدْ",
+        "56003011010|حَكَمَ",
+        "56003011011|عَلَى",
+        "56003011012|نَفْسِهِ",
+        "56003011013|بِنَفْسِهِ"
+      ],
+      "meta": {
+        "id": "f612cb5c-acf3-49c0-9eb8-15d7c0d7921c",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012001|"
+      ],
+      "target": [
+        "56003012001|حَالَمَا"
+      ],
+      "meta": {
+        "id": "51d98e73-a660-437b-80ec-d4e01914c5de",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012002|"
+      ],
+      "target": [
+        "56003012002|أُرْسِلُ"
+      ],
+      "meta": {
+        "id": "a5c348b4-4239-47e7-981d-67c4c062c1b7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012003|"
+      ],
+      "target": [
+        "56003012004|أَرْتِمَاسَ"
+      ],
+      "meta": {
+        "id": "d82e0da4-fe1f-4a79-b5f4-0595decee010",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012004|",
+        "56003012005|"
+      ],
+      "target": [
+        "56003012003|إِلَيْكَ"
+      ],
+      "meta": {
+        "id": "06465350-d7f9-4a34-af5a-eb94b639e028",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012006|"
+      ],
+      "target": [
+        "56003012005|أَوْ"
+      ],
+      "meta": {
+        "id": "0b3bdf99-3976-4a43-a58a-ba83a64ee820",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012007|"
+      ],
+      "target": [
+        "56003012006|تِيخِيكُسَ"
+      ],
+      "meta": {
+        "id": "2984f9b6-d3cc-4595-9547-a8b164d2e848",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012008|"
+      ],
+      "target": [
+        "56003012008|اجْتَهِدْ"
+      ],
+      "meta": {
+        "id": "7f34a590-917c-4e60-90a2-4f6aa9cd5e0f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012009|",
+        "56003012010|",
+        "56003012011|"
+      ],
+      "target": [
+        "56003012009|أَنْ",
+        "56003012010|تَأْتِيَنِي"
+      ],
+      "meta": {
+        "id": "b93e7946-b331-4db8-974f-6f691125fff1",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012012|"
+      ],
+      "target": [
+        "56003012011|إِلَى"
+      ],
+      "meta": {
+        "id": "948f2fa0-b1a7-4ebf-a603-2ec3dcd2c525",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012013|"
+      ],
+      "target": [
+        "56003012012|مَدِينَةِ",
+        "56003012013|نِيكُوبُولِيسَ"
+      ],
+      "meta": {
+        "id": "3d9be621-dcd2-45e0-b09c-914142a9322f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012014|"
+      ],
+      "target": [
+        "56003012021|هُنَاكَ"
+      ],
+      "meta": {
+        "id": "100c571f-d82a-460c-a418-648d0e229a16",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012015|"
+      ],
+      "target": [
+        "56003012015|لأَنِّي"
+      ],
+      "meta": {
+        "id": "0a96ce4e-012e-4241-a941-bb70b6136979",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012016|"
+      ],
+      "target": [
+        "56003012016|قَرَّرْتُ"
+      ],
+      "meta": {
+        "id": "eabfc5dd-2ac7-4043-b1b7-487b02796810",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003012017|"
+      ],
+      "target": [
+        "56003012017|أَنْ",
+        "56003012018|أُقَضِّيَ",
+        "56003012019|فَصْلَ",
+        "56003012020|الشِّتَاءِ"
+      ],
+      "meta": {
+        "id": "55d9debb-4860-41c4-adde-a3a1b19e9fca",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003013001|"
+      ],
+      "target": [
+        "56003013004|زِينَاسَ"
+      ],
+      "meta": {
+        "id": "ca749aaa-338e-4910-88c3-289d8ac2fed2",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003013002|",
+        "56003013003|"
+      ],
+      "target": [
+        "56003013005|الْمُحَامِي"
+      ],
+      "meta": {
+        "id": "b855bf9a-5cef-4da1-a0bb-a83058e65963",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003013004|",
+        "56003013005|"
+      ],
+      "target": [
+        "56003013006|وَأَبُلُّوسَ"
+      ],
+      "meta": {
+        "id": "5a5f25af-5086-4877-9dec-1de727559c4f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003013006|"
+      ],
+      "target": [
+        "56003013001|اجْتَهِدْ"
+      ],
+      "meta": {
+        "id": "86d0b689-9af1-4d8b-b044-3e5da86fd58b",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003013007|"
+      ],
+      "target": [
+        "56003013002|فِي",
+        "56003013003|إِطْلاقِ",
+        "56003013007|بَعْدَ",
+        "56003013008|تَزْوِيدِهِمَا",
+        "56003013009|لِلسَّفَرِ"
+      ],
+      "meta": {
+        "id": "d21d8a2c-11b2-47d6-b79a-c4a8ab86a67e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003013008|"
+      ],
+      "target": [
+        "56003013011|حَتَّى"
+      ],
+      "meta": {
+        "id": "0628a391-63b4-4b6b-aceb-df958d3838b9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003013009|"
+      ],
+      "target": [
+        "56003013012|لَا",
+        "56003013015|شَيْءٍ"
+      ],
+      "meta": {
+        "id": "0019acc3-4b29-4c73-a402-8d5c2f8916c5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003013010|",
+        "56003013011|"
+      ],
+      "target": [
+        "56003013013|يَحْتَاجَا",
+        "56003013014|إِلَى"
+      ],
+      "meta": {
+        "id": "504dddd3-83af-40cd-96d3-54a3658ef0c5",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003014001|",
+        "56003014002|"
+      ],
+      "target": [
+        "56003014001|وَلْيَتَعَلَّمْ"
+      ],
+      "meta": {
+        "id": "a924d1dc-702c-40f8-8bae-dea1dd536099",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003014003|"
+      ],
+      "target": [
+        "56003014003|أَيْضاً"
+      ],
+      "meta": {
+        "id": "13173a99-5479-4592-b804-66ac5ad4c057",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003014004|",
+        "56003014005|"
+      ],
+      "target": [
+        "56003014002|ذَوُونَا"
+      ],
+      "meta": {
+        "id": "9fb1c6fe-707a-4a7b-96c8-8cdc8f3b8b98",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003014006|"
+      ],
+      "target": [
+        "56003014007|حَسَنَةً"
+      ],
+      "meta": {
+        "id": "37b2b21d-8fde-4eea-b338-b72f4dcf6a4e",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003014007|"
+      ],
+      "target": [
+        "56003014006|أَعْمَالاً"
+      ],
+      "meta": {
+        "id": "75288c63-fc10-41f0-8712-b28850a3ad92",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003014008|"
+      ],
+      "target": [
+        "56003014004|أَنْ",
+        "56003014005|يُمَارِسُوا"
+      ],
+      "meta": {
+        "id": "8b3a1d67-a03a-4b2f-bf05-569ea377f786",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003014009|"
+      ],
+      "target": [
+        "56003014009|لِسَدِّ"
+      ],
+      "meta": {
+        "id": "b614dd63-792a-4482-af4b-8125647029c3",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003014010|",
+        "56003014012|"
+      ],
+      "target": [
+        "56003014010|الْحَاجَاتِ"
+      ],
+      "meta": {
+        "id": "5e84cb2f-7106-4498-9afa-d388c55c8c2f",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003014011|"
+      ],
+      "target": [
+        "56003014011|الضَّرُورِيَّةِ"
+      ],
+      "meta": {
+        "id": "2a02955c-fca1-4f4c-979c-1e36507634a4",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003014013|"
+      ],
+      "target": [
+        "56003014013|لِكَيْ"
+      ],
+      "meta": {
+        "id": "4c76fca5-0869-4c08-8a68-4d8c1f0cec01",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003014014|"
+      ],
+      "target": [
+        "56003014014|لَا"
+      ],
+      "meta": {
+        "id": "608d2d7e-69db-45f8-aecf-69dd654d9006",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003014015|"
+      ],
+      "target": [
+        "56003014015|يَكُونُوا"
+      ],
+      "meta": {
+        "id": "78075cd8-374f-4b61-b9b0-675b99ba96d8",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003014016|"
+      ],
+      "target": [
+        "56003014016|عَدِيمِي",
+        "56003014017|الثَّمَرِ"
+      ],
+      "meta": {
+        "id": "8a0820e8-3e6b-483a-802d-fda1b3943c84",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003015001|"
+      ],
+      "target": [
+        "56003015004|يُسَلِّمُونَ"
+      ],
+      "meta": {
+        "id": "a153a15b-7438-4cf6-b577-cccd469c5ae9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003015002|"
+      ],
+      "target": [
+        "56003015005|عَلَيْكَ"
+      ],
+      "meta": {
+        "id": "d96d2051-f7c9-4048-9d07-8e75397626da",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003015003|"
+      ],
+      "target": [
+        "56003015002|الَّذِينَ"
+      ],
+      "meta": {
+        "id": "ffd92e2a-f379-410f-9509-2394f84e8b91",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003015004|",
+        "56003015005|"
+      ],
+      "target": [
+        "56003015003|مَعِي"
+      ],
+      "meta": {
+        "id": "3ceb76e7-19f2-43e8-89e8-93b9a272c6cd",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003015006|"
+      ],
+      "target": [
+        "56003015001|جَمِيعُ"
+      ],
+      "meta": {
+        "id": "82c94e93-f680-4a0a-b7f8-0515d06c87ff",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003015007|"
+      ],
+      "target": [
+        "56003015007|سَلِّمْ",
+        "56003015008|عَلَى"
+      ],
+      "meta": {
+        "id": "dbf7e460-d8a5-4d7c-af60-6a51d53738f9",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003015009|",
+        "56003015010|"
+      ],
+      "target": [
+        "56003015009|مُحِبِّينَا"
+      ],
+      "meta": {
+        "id": "62cd4140-05c4-4c03-8ca2-568c650a5619",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003015011|"
+      ],
+      "target": [
+        "56003015010|فِي"
+      ],
+      "meta": {
+        "id": "1c77040a-2251-446d-935b-0a884c1d11c7",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003015012|"
+      ],
+      "target": [
+        "56003015011|الإِيمَانِ"
+      ],
+      "meta": {
+        "id": "d8a6164b-2063-46d8-bdae-780c9ee79104",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003015013|",
+        "56003015014|"
+      ],
+      "target": [
+        "56003015014|النِّعْمَةُ"
+      ],
+      "meta": {
+        "id": "0e7b6120-8e1d-4ad7-abb9-2e2463bea241",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003015015|",
+        "56003015017|"
+      ],
+      "target": [
+        "56003015015|مَعَكُمْ"
+      ],
+      "meta": {
+        "id": "4179fc23-d0e4-48d9-a506-399b01ccee56",
+        "origin": "manual",
+        "status": "created"
+      }
+    },
+    {
+      "source": [
+        "56003015016|"
+      ],
+      "target": [
+        "56003015016|جَمِيعاً"
+      ],
+      "meta": {
+        "id": "a8027e4a-3272-407d-9ff5-d7cf0051b14a",
+        "origin": "manual",
+        "status": "created"
+      }
+    }
+  ]
+}
